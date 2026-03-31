@@ -17,7 +17,7 @@ ml_scaler = joblib.load("scaler.pkl")
 le_country = joblib.load("le_country.pkl")
 le_target = joblib.load("le_target.pkl")
 
-nn_model = load_model("nn_model.keras", compile=False)
+nn_model.load_weights("nn_model.weights.h5")
 nn_scaler = joblib.load("nn_scaler.pkl")
 
 # =========================
