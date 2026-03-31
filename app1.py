@@ -8,7 +8,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
+from tensorflow.keras.layers import Dense, Input
 
 # =========================
 # LOAD ML MODELS
@@ -19,10 +19,11 @@ le_country = joblib.load("le_country.pkl")
 le_target = joblib.load("le_target.pkl")
 
 # =========================
-# LOAD NN MODEL (FINAL FIX)
+# LOAD NN MODEL (REAL)
 # =========================
 nn_model = Sequential([
-    Dense(128, activation='relu', input_shape=(2,)),
+    Input(shape=(2,)),
+    Dense(128, activation='relu'),
     Dense(64, activation='relu'),
     Dense(32, activation='relu'),
     Dense(1, activation='sigmoid')
@@ -34,10 +35,7 @@ nn_model.compile(
     metrics=['accuracy']
 )
 
-# โหลด weights
 nn_model.load_weights("nn_model.weights.h5")
-
-# scaler ของ NN
 nn_scaler = joblib.load("nn_scaler.pkl")
 
 # =========================
@@ -52,12 +50,12 @@ df_nn = pd.read_csv("rotten_tomatoes_movies.csv")
 st.sidebar.title("🚀 AI Project Menu")
 page = st.sidebar.selectbox("Select Page", [
     "📊 Dashboard",
-    "🤖 ML Info",
-    "🌍 ML Predict",
+    "📘 ML Explanation",
+    "🌍 ML Prediction",
     "📈 ML Evaluation",
-    "🧠 NN Info",
-    "🎬 NN Predict",
-    "📉 NN Accuracy Graph"
+    "📙 NN Explanation",
+    "🎬 NN Prediction",
+    "📉 NN Accuracy"
 ])
 
 # =========================
@@ -70,32 +68,52 @@ if page == "📊 Dashboard":
 
     with col1:
         st.subheader("McDonald's Locations by Continent")
-        continent_counts = df_ml['Continent'].value_counts()
-        st.bar_chart(continent_counts)
+        st.bar_chart(df_ml['Continent'].value_counts())
 
     with col2:
         st.subheader("Movies Rating Distribution")
         st.line_chart(df_nn['audience_score'])
 
-    st.success("Project Overview: ML + Neural Network Working Together 🚀")
+# =========================
+# ML EXPLANATION (A)
+# =========================
+elif page == "📘 ML Explanation":
+    st.title("Machine Learning Explanation")
 
-# =========================
-# ML INFO
-# =========================
-elif page == "🤖 ML Info":
-    st.title("Machine Learning (Ensemble)")
     st.write("""
-    - SVM
-    - KNN
-    - Decision Tree
-    Combined with Voting Classifier
-    """)
+### 1. Data Preparation
+- Dataset: McDonald's locations worldwide
+- Features: Country, Number of Locations, Year
+- Target: Continent
+- Data cleaning: removed missing values
+
+### 2. Algorithm Theory
+- **SVM (Support Vector Machine):**
+  Finds optimal boundary between classes
+
+- **KNN (K-Nearest Neighbors):**
+  Classifies based on nearest data points
+
+- **Decision Tree:**
+  Uses tree structure to split data
+
+- Combined using **Voting Classifier**
+
+### 3. Model Development
+- Encode categorical data
+- Normalize features using StandardScaler
+- Train multiple models
+- Combine using ensemble learning
+
+### 4. Data Source
+- McDonald's dataset (public dataset)
+""")
 
 # =========================
-# ML PREDICT
+# ML PREDICTION (B)
 # =========================
-elif page == "🌍 ML Predict":
-    st.title("Predict Continent")
+elif page == "🌍 ML Prediction":
+    st.title("ML Prediction")
 
     country = st.selectbox("Country", df_ml['Country'].unique())
     num = st.number_input("Number of Locations")
@@ -133,22 +151,40 @@ elif page == "📈 ML Evaluation":
     st.pyplot(fig)
 
 # =========================
-# NN INFO
+# NN EXPLANATION (A)
 # =========================
-elif page == "🧠 NN Info":
-    st.title("Neural Network")
+elif page == "📙 NN Explanation":
+    st.title("Neural Network Explanation")
+
     st.write("""
-    - Deep Neural Network
-    - 4 Layers (128 → 64 → 32 → 1)
-    - ReLU + Sigmoid
-    - Binary Classification (Good / Bad Movie)
-    """)
+### 1. Data Preparation
+- Dataset: Rotten Tomatoes movies
+- Features: Tomatometer score, Year
+- Target: Good / Bad movie
+
+### 2. Algorithm Theory
+- Neural Network consists of layers of neurons
+- Each layer extracts features
+- Activation functions:
+  - ReLU
+  - Sigmoid
+
+### 3. Model Development
+- Input layer (2 features)
+- Hidden layers: 128 → 64 → 32 neurons
+- Output layer: binary classification
+- Loss: binary crossentropy
+- Optimizer: Adam
+
+### 4. Data Source
+- Rotten Tomatoes dataset
+""")
 
 # =========================
-# NN PREDICT
+# NN PREDICTION (B)
 # =========================
-elif page == "🎬 NN Predict":
-    st.title("Movie Prediction")
+elif page == "🎬 NN Prediction":
+    st.title("NN Prediction")
 
     t_rating = st.number_input("Tomatometer Score")
     year = st.number_input("Year")
@@ -163,10 +199,10 @@ elif page == "🎬 NN Predict":
             st.error("❌ Bad Movie")
 
 # =========================
-# NN ACCURACY GRAPH
+# NN ACCURACY
 # =========================
-elif page == "📉 NN Accuracy Graph":
-    st.title("NN Training Accuracy")
+elif page == "📉 NN Accuracy":
+    st.title("NN Accuracy Graph")
 
     acc = [0.6, 0.7, 0.75, 0.8, 0.82, 0.85]
     loss = [0.7, 0.6, 0.5, 0.4, 0.35, 0.3]
