@@ -19,15 +19,15 @@ le_country = joblib.load("le_country.pkl")
 le_target = joblib.load("le_target.pkl")
 
 # =========================
-# LOAD NN MODEL (REAL)
+# LOAD NN MODEL (FINAL FIX)
 # =========================
-nn_model = Sequential([
-    Input(shape=(2,)),
-    Dense(128, activation='relu'),
-    Dense(64, activation='relu'),
-    Dense(32, activation='relu'),
-    Dense(1, activation='sigmoid')
-])
+nn_model = Sequential()
+
+nn_model.add(Input(shape=(2,)))
+nn_model.add(Dense(128, activation='relu'))
+nn_model.add(Dense(64, activation='relu'))
+nn_model.add(Dense(32, activation='relu'))
+nn_model.add(Dense(1, activation='sigmoid'))
 
 nn_model.compile(
     optimizer='adam',
@@ -75,42 +75,32 @@ if page == "📊 Dashboard":
         st.line_chart(df_nn['audience_score'])
 
 # =========================
-# ML EXPLANATION (A)
+# ML EXPLANATION
 # =========================
 elif page == "📘 ML Explanation":
     st.title("Machine Learning Explanation")
-
     st.write("""
-### 1. Data Preparation
-- Dataset: McDonald's locations worldwide
-- Features: Country, Number of Locations, Year
-- Target: Continent
-- Data cleaning: removed missing values
-
-### 2. Algorithm Theory
-- **SVM (Support Vector Machine):**
-  Finds optimal boundary between classes
-
-- **KNN (K-Nearest Neighbors):**
-  Classifies based on nearest data points
-
-- **Decision Tree:**
-  Uses tree structure to split data
-
-- Combined using **Voting Classifier**
-
-### 3. Model Development
+### Data Preparation
+- Clean missing values
 - Encode categorical data
-- Normalize features using StandardScaler
-- Train multiple models
-- Combine using ensemble learning
 
-### 4. Data Source
-- McDonald's dataset (public dataset)
+### Algorithms
+- SVM
+- KNN
+- Decision Tree
+- Voting Ensemble
+
+### Development
+- Scaling with StandardScaler
+- Training multiple models
+- Combining predictions
+
+### Dataset
+- McDonald's worldwide dataset
 """)
 
 # =========================
-# ML PREDICTION (B)
+# ML PREDICTION
 # =========================
 elif page == "🌍 ML Prediction":
     st.title("ML Prediction")
@@ -151,37 +141,30 @@ elif page == "📈 ML Evaluation":
     st.pyplot(fig)
 
 # =========================
-# NN EXPLANATION (A)
+# NN EXPLANATION
 # =========================
 elif page == "📙 NN Explanation":
     st.title("Neural Network Explanation")
-
     st.write("""
-### 1. Data Preparation
-- Dataset: Rotten Tomatoes movies
-- Features: Tomatometer score, Year
-- Target: Good / Bad movie
+### Data Preparation
+- Features: Tomatometer, Year
+- Normalize data
 
-### 2. Algorithm Theory
-- Neural Network consists of layers of neurons
-- Each layer extracts features
-- Activation functions:
-  - ReLU
-  - Sigmoid
-
-### 3. Model Development
+### Architecture
 - Input layer (2 features)
-- Hidden layers: 128 → 64 → 32 neurons
-- Output layer: binary classification
-- Loss: binary crossentropy
+- Hidden layers: 128 → 64 → 32
+- Output: Sigmoid
+
+### Training
+- Loss: Binary Crossentropy
 - Optimizer: Adam
 
-### 4. Data Source
+### Dataset
 - Rotten Tomatoes dataset
 """)
 
 # =========================
-# NN PREDICTION (B)
+# NN PREDICTION
 # =========================
 elif page == "🎬 NN Prediction":
     st.title("NN Prediction")
