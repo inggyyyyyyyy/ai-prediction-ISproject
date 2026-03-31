@@ -7,7 +7,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
-from tensorflow.keras.models import model_from_json
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
 
 # =========================
 # LOAD ML MODELS
@@ -18,23 +19,23 @@ le_country = joblib.load("le_country.pkl")
 le_target = joblib.load("le_target.pkl")
 
 # =========================
-# LOAD NN MODEL (REAL FIX)
+# LOAD NN MODEL (FINAL FIX)
 # =========================
-# โหลดโครงสร้าง model
-with open("nn_model.json", "r") as json_file:
-    loaded_model_json = json_file.read()
+nn_model = Sequential([
+    Dense(128, activation='relu', input_shape=(2,)),
+    Dense(64, activation='relu'),
+    Dense(32, activation='relu'),
+    Dense(1, activation='sigmoid')
+])
 
-nn_model = model_from_json(loaded_model_json)
-
-# โหลด weights
-nn_model.load_weights("nn_model.weights.h5")
-
-# compile
 nn_model.compile(
     optimizer='adam',
     loss='binary_crossentropy',
     metrics=['accuracy']
 )
+
+# โหลด weights
+nn_model.load_weights("nn_model.weights.h5")
 
 # scaler ของ NN
 nn_scaler = joblib.load("nn_scaler.pkl")
@@ -167,7 +168,6 @@ elif page == "🎬 NN Predict":
 elif page == "📉 NN Accuracy Graph":
     st.title("NN Training Accuracy")
 
-    # ถ้ามี history จริงให้โหลดมาใช้แทน
     acc = [0.6, 0.7, 0.75, 0.8, 0.82, 0.85]
     loss = [0.7, 0.6, 0.5, 0.4, 0.35, 0.3]
 
