@@ -7,8 +7,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Input
 
 # =========================
 # LOAD ML MODELS
@@ -19,23 +17,9 @@ le_country = joblib.load("le_country.pkl")
 le_target = joblib.load("le_target.pkl")
 
 # =========================
-# LOAD NN MODEL (FINAL FIX)
+# LOAD NN MODEL (SKLEARN)
 # =========================
-nn_model = Sequential()
-
-nn_model.add(Input(shape=(2,)))
-nn_model.add(Dense(128, activation='relu'))
-nn_model.add(Dense(64, activation='relu'))
-nn_model.add(Dense(32, activation='relu'))
-nn_model.add(Dense(1, activation='sigmoid'))
-
-nn_model.compile(
-    optimizer='adam',
-    loss='binary_crossentropy',
-    metrics=['accuracy']
-)
-
-nn_model.load_weights("nn_model.weights.h5")
+nn_model = joblib.load("nn_model.pkl")
 nn_scaler = joblib.load("nn_scaler.pkl")
 
 # =========================
@@ -144,20 +128,21 @@ elif page == "📈 ML Evaluation":
 # NN EXPLANATION
 # =========================
 elif page == "📙 NN Explanation":
-    st.title("Neural Network Explanation")
+    st.title("Neural Network Explanation (MLP)")
+
     st.write("""
 ### Data Preparation
-- Features: Tomatometer, Year
-- Normalize data
+- Features: Tomatometer score, Year
+- Normalize using scaler
 
-### Architecture
-- Input layer (2 features)
+### Model
+- MLPClassifier (Neural Network in sklearn)
 - Hidden layers: 128 → 64 → 32
-- Output: Sigmoid
+- Activation: ReLU
 
 ### Training
-- Loss: Binary Crossentropy
-- Optimizer: Adam
+- Optimized using backpropagation
+- Loss minimized automatically
 
 ### Dataset
 - Rotten Tomatoes dataset
@@ -176,7 +161,7 @@ elif page == "🎬 NN Prediction":
         X = nn_scaler.transform([[t_rating, year]])
         pred = nn_model.predict(X)
 
-        if pred[0][0] > 0.5:
+        if pred[0] == 1:
             st.success("🍿 Good Movie")
         else:
             st.error("❌ Bad Movie")
