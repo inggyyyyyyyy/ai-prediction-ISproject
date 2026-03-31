@@ -1,0 +1,1201 @@
+movie_id,title,year,genre,country,tomatometer,audience_score,critics_consensus
+100000,Hidden Truths: The Beginning,2013,Horror,Spain,85,95,A well-crafted experience that mostly lands.
+100001,Iron Heart 2,2000,Thriller,Australia,93,82,Visually stunning and emotionally gripping.
+100002,Return of The Last Samurai Rising,2009,Drama,USA,30,22,A disappointing mess that fails to find its footing.
+100003,The Legend of The Pearl Diver,2000,Comedy,USA,88,89,Solid performances and a compelling narrative.
+100004,Escape from Desert Rose,2019,Thriller,Australia,12,21,Better left for late-night cable TV.
+100005,Cosmic Drift (2005),2013,Romance,Germany,84,76,Solid performances and a compelling narrative.
+100006,Forgotten Memories (2006),2000,Drama,Australia,26,16,Better left for late-night cable TV.
+100007,Mountain Peak High (2007),2011,Horror,Australia,49,45,A disappointing mess that fails to find its footing.
+100008,Starship Avalon (2008),2018,Animation,Spain,69,57,A decent effort with some flashes of brilliance.
+100009,The Pearl Diver (2009),2010,Drama,Australia,41,54,Better left for late-night cable TV.
+100010,The Urban Jungle: The Beginning,2023,Animation,USA,23,27,Visually dull and narratively confusing.
+100011,The Last Samurai Rising 2,2008,Drama,Canada,64,65,A decent effort with some flashes of brilliance.
+100012,Return of Mountain Peak High,2016,Action,USA,16,30,Better left for late-night cable TV.
+100013,The Legend of Cosmic Drift,2003,Animation,Australia,14,19,Visually dull and narratively confusing.
+100014,Escape from Bronze Age Chronicles,2020,Action,Japan,66,74,A decent effort with some flashes of brilliance.
+100015,Desert Rose (2015),2004,Documentary,Canada,64,56,Ambitious but struggles with pacing.
+100016,Eternal Sands (2016),2016,Drama,UK,45,43,A disappointing mess that fails to find its footing.
+100017,The Ghost Ship (2017),2014,Animation,France,17,5,A disappointing mess that fails to find its footing.
+100018,Iron Heart (2018),2005,Romance,Australia,18,27,Visually dull and narratively confusing.
+100019,Deep Sea Secret (2019),2010,Comedy,India,15,5,A disappointing mess that fails to find its footing.
+100020,The Last Samurai Rising: The Beginning,2016,Comedy,France,76,70,A well-crafted experience that mostly lands.
+100021,The Urban Jungle 2,2017,Horror,USA,47,50,Visually dull and narratively confusing.
+100022,Return of Velocity Zero,2005,Comedy,Spain,75,77,"Enjoyable, though slightly predictable at times."
+100023,The Legend of Golden Empire,2005,Drama,UK,78,78,"Enjoyable, though slightly predictable at times."
+100024,Escape from Hidden Truths,2021,Animation,Germany,89,88,"Enjoyable, though slightly predictable at times."
+100025,Midnight in Kyoto (2000),2009,Animation,Germany,100,100,Visually stunning and emotionally gripping.
+100026,Golden Empire (2001),2012,Thriller,Australia,48,34,Better left for late-night cable TV.
+100027,Whispers in the Wind (2002),2004,Action,Canada,28,20,Better left for late-night cable TV.
+100028,Last Train to Paris (2003),2013,Animation,Germany,20,14,Visually dull and narratively confusing.
+100029,Cosmic Drift (2004),2021,Horror,UK,39,35,A disappointing mess that fails to find its footing.
+100030,The Urban Jungle: The Beginning,2012,Sci-Fi,Spain,94,100,A modern classic that redefines its genre.
+100031,Sapphire Seas 2,2012,Comedy,Germany,73,83,A well-crafted experience that mostly lands.
+100032,Return of Midnight in Kyoto,2024,Comedy,Japan,28,22,Better left for late-night cable TV.
+100033,The Legend of Last Train to Paris,2019,Drama,France,43,31,Visually dull and narratively confusing.
+100034,Escape from The Urban Jungle,2022,Romance,UK,76,69,"Enjoyable, though slightly predictable at times."
+100035,The Urban Jungle (2010),2010,Fantasy,Australia,30,27,Better left for late-night cable TV.
+100036,Velocity Zero (2011),2006,Thriller,UK,25,25,Visually dull and narratively confusing.
+100037,Eternal Sands (2012),2007,Fantasy,Germany,13,5,A disappointing mess that fails to find its footing.
+100038,Beyond the Clouds (2013),2010,Romance,USA,94,88,A modern classic that redefines its genre.
+100039,Sapphire Seas (2014),2018,Comedy,UK,14,5,Better left for late-night cable TV.
+100040,The Ghost Ship: The Beginning,2019,Horror,USA,90,91,A modern classic that redefines its genre.
+100041,Cyber City 2077 2,2022,Sci-Fi,Germany,61,63,Ambitious but struggles with pacing.
+100042,Return of Modern Warfare: The Silent Movie,2018,Romance,USA,62,64,Ambitious but struggles with pacing.
+100043,The Legend of Diamond Dust,2014,Drama,UK,68,60,Ambitious but struggles with pacing.
+100044,Escape from Ruby Red Skies,2018,Thriller,Germany,87,87,Solid performances and a compelling narrative.
+100045,Eternal Sands (2020),2011,Romance,Japan,54,54,Passable entertainment for fans of the genre.
+100046,The Digital Frontier (2021),2010,Sci-Fi,USA,82,83,"Enjoyable, though slightly predictable at times."
+100047,Quantum Leap (2022),2000,Thriller,France,37,47,Better left for late-night cable TV.
+100048,Hidden Truths (2023),2017,Thriller,France,27,40,Visually dull and narratively confusing.
+100049,Quantum Leap (2024),2002,Romance,France,31,42,Visually dull and narratively confusing.
+100050,Platinum Soul: The Beginning,2011,Documentary,South Korea,18,11,Better left for late-night cable TV.
+100051,Hidden Truths 2,2013,Documentary,Spain,20,15,Visually dull and narratively confusing.
+100052,Return of Cosmic Drift,2006,Fantasy,Australia,92,100,A modern classic that redefines its genre.
+100053,The Legend of Velocity Zero,2010,Action,India,42,41,Visually dull and narratively confusing.
+100054,Escape from The Pearl Diver,2011,Comedy,Germany,37,33,Better left for late-night cable TV.
+100055,Hidden Truths (2005),2019,Animation,Japan,22,34,A disappointing mess that fails to find its footing.
+100056,Golden Empire (2006),2007,Comedy,India,42,52,A disappointing mess that fails to find its footing.
+100057,The Pearl Diver (2007),2022,Thriller,Spain,61,76,Ambitious but struggles with pacing.
+100058,The Pearl Diver (2008),2021,Animation,UK,67,55,Passable entertainment for fans of the genre.
+100059,The Ghost Ship (2009),2013,Sci-Fi,Japan,21,29,Visually dull and narratively confusing.
+100060,Quantum Leap: The Beginning,2016,Animation,Spain,42,32,Visually dull and narratively confusing.
+100061,Desert Rose 2,2005,Action,India,32,38,Better left for late-night cable TV.
+100062,Return of Last Train to Paris,2020,Drama,South Korea,30,23,Visually dull and narratively confusing.
+100063,The Legend of Quantum Leap,2024,Animation,Germany,69,58,Ambitious but struggles with pacing.
+100064,Escape from Diamond Dust,2023,Comedy,USA,16,15,Visually dull and narratively confusing.
+100065,Cosmic Drift (2015),2022,Drama,USA,59,53,Passable entertainment for fans of the genre.
+100066,The Diamond Heist (2016),2000,Action,Canada,10,5,Visually dull and narratively confusing.
+100067,The Digital Frontier (2017),2016,Thriller,USA,78,78,"Enjoyable, though slightly predictable at times."
+100068,Starship Avalon (2018),2023,Action,Japan,58,66,A decent effort with some flashes of brilliance.
+100069,Quantum Leap (2019),2015,Action,Australia,31,25,Visually dull and narratively confusing.
+100070,Hidden Truths: The Beginning,2004,Romance,France,51,36,Ambitious but struggles with pacing.
+100071,Mountain Peak High 2,2022,Action,Japan,87,98,A well-crafted experience that mostly lands.
+100072,Return of Arctic Chill,2002,Horror,Japan,22,27,Visually dull and narratively confusing.
+100073,The Legend of The Ghost Ship,2017,Animation,South Korea,36,25,A disappointing mess that fails to find its footing.
+100074,Escape from Golden Empire,2017,Animation,USA,73,70,"Enjoyable, though slightly predictable at times."
+100075,Neon Pulse (2000),2009,Action,Spain,85,71,"Enjoyable, though slightly predictable at times."
+100076,Iron Heart (2001),2022,Thriller,South Korea,98,86,Visually stunning and emotionally gripping.
+100077,Cosmic Drift (2002),2021,Animation,Canada,98,100,Visually stunning and emotionally gripping.
+100078,Under the Moonlight (2003),2014,Documentary,Spain,46,35,Visually dull and narratively confusing.
+100079,Forgotten Memories (2004),2003,Romance,Spain,36,40,Better left for late-night cable TV.
+100080,Cosmic Drift: The Beginning,2020,Drama,India,70,75,Solid performances and a compelling narrative.
+100081,Modern Warfare: The Silent Movie 2,2019,Documentary,Spain,77,71,"Enjoyable, though slightly predictable at times."
+100082,Return of Arctic Chill,2021,Romance,Australia,91,89,A modern classic that redefines its genre.
+100083,The Legend of Island Paradise Lost,2021,Romance,India,72,72,A well-crafted experience that mostly lands.
+100084,Escape from The Pearl Diver,2011,Horror,Australia,56,55,Ambitious but struggles with pacing.
+100085,The Pearl Diver (2010),2007,Horror,Canada,18,21,Better left for late-night cable TV.
+100086,Forgotten Memories (2011),2009,Drama,USA,94,100,Visually stunning and emotionally gripping.
+100087,Midnight in Kyoto (2012),2017,Horror,Spain,47,61,A disappointing mess that fails to find its footing.
+100088,Modern Warfare: The Silent Movie (2013),2002,Sci-Fi,Japan,46,50,Visually dull and narratively confusing.
+100089,Sapphire Seas (2014),2005,Fantasy,Canada,67,81,A decent effort with some flashes of brilliance.
+100090,The Diamond Heist: The Beginning,2011,Comedy,USA,95,95,A masterclass in filmmaking that resonates deeply.
+100091,The Great Gatsby V2 2,2000,Fantasy,South Korea,97,84,A masterclass in filmmaking that resonates deeply.
+100092,Return of Iron Heart,2002,Comedy,Japan,41,32,Better left for late-night cable TV.
+100093,The Legend of Platinum Soul,2005,Sci-Fi,Canada,56,63,A decent effort with some flashes of brilliance.
+100094,Escape from Mountain Peak High,2012,Action,France,41,50,Better left for late-night cable TV.
+100095,Mountain Peak High (2020),2008,Thriller,South Korea,48,53,A disappointing mess that fails to find its footing.
+100096,Mountain Peak High (2021),2002,Animation,UK,32,22,Visually dull and narratively confusing.
+100097,Diamond Dust (2022),2019,Thriller,South Korea,88,91,A well-crafted experience that mostly lands.
+100098,Last Train to Paris (2023),2012,Comedy,India,86,71,Solid performances and a compelling narrative.
+100099,The Ghost Ship (2024),2017,Romance,USA,37,41,A disappointing mess that fails to find its footing.
+100100,The Last Samurai Rising: The Beginning,2004,Fantasy,UK,74,78,"Enjoyable, though slightly predictable at times."
+100101,Neon Pulse 2,2013,Thriller,Spain,91,95,A masterclass in filmmaking that resonates deeply.
+100102,Return of Silicon Valley Dreams,2018,Drama,UK,68,70,Ambitious but struggles with pacing.
+100103,The Legend of Under the Moonlight,2006,Comedy,UK,63,54,A decent effort with some flashes of brilliance.
+100104,Escape from Golden Empire,2018,Comedy,Spain,25,27,Visually dull and narratively confusing.
+100105,Desert Rose (2005),2017,Sci-Fi,India,26,11,Visually dull and narratively confusing.
+100106,The Great Gatsby V2 (2006),2008,Sci-Fi,UK,10,5,Visually dull and narratively confusing.
+100107,Whispers in the Wind (2007),2015,Comedy,Germany,71,70,Solid performances and a compelling narrative.
+100108,Silicon Valley Dreams (2008),2018,Documentary,Germany,21,28,Better left for late-night cable TV.
+100109,Cyber City 2077 (2009),2005,Comedy,Japan,71,59,"Enjoyable, though slightly predictable at times."
+100110,The Urban Jungle: The Beginning,2012,Action,Germany,47,35,Visually dull and narratively confusing.
+100111,The Emerald Gate 2,2016,Animation,UK,79,85,"Enjoyable, though slightly predictable at times."
+100112,Return of Desert Rose,2022,Horror,Japan,68,77,Passable entertainment for fans of the genre.
+100113,The Legend of Forgotten Memories,2011,Sci-Fi,Canada,47,52,A disappointing mess that fails to find its footing.
+100114,Escape from Silver Bullet,2024,Sci-Fi,Canada,65,80,Passable entertainment for fans of the genre.
+100115,The Ghost Ship (2015),2013,Sci-Fi,Japan,79,77,Solid performances and a compelling narrative.
+100116,Island Paradise Lost (2016),2003,Romance,Spain,24,22,Visually dull and narratively confusing.
+100117,The Last Samurai Rising (2017),2020,Action,South Korea,46,53,Better left for late-night cable TV.
+100118,Parallel Worlds (2018),2015,Sci-Fi,South Korea,41,50,Better left for late-night cable TV.
+100119,The Last Samurai Rising (2019),2001,Action,USA,96,89,Visually stunning and emotionally gripping.
+100120,Shadow of the Colossus: The Beginning,2011,Horror,Japan,42,40,Better left for late-night cable TV.
+100121,Hidden Truths 2,2018,Drama,France,31,24,A disappointing mess that fails to find its footing.
+100122,Return of The Digital Frontier,2009,Fantasy,South Korea,41,46,Better left for late-night cable TV.
+100123,The Legend of Bronze Age Chronicles,2022,Comedy,Canada,79,83,A well-crafted experience that mostly lands.
+100124,Escape from The Pearl Diver,2016,Comedy,India,26,23,A disappointing mess that fails to find its footing.
+100125,The Digital Frontier (2000),2011,Drama,UK,24,38,A disappointing mess that fails to find its footing.
+100126,The Ghost Ship (2001),2015,Action,Spain,32,42,Visually dull and narratively confusing.
+100127,Hidden Truths (2002),2001,Thriller,Germany,25,17,Better left for late-night cable TV.
+100128,Iron Heart (2003),2022,Fantasy,USA,47,51,Visually dull and narratively confusing.
+100129,Under the Moonlight (2004),2007,Fantasy,Spain,77,91,Solid performances and a compelling narrative.
+100130,Forgotten Memories: The Beginning,2007,Drama,South Korea,34,32,A disappointing mess that fails to find its footing.
+100131,Desert Rose 2,2021,Comedy,Germany,34,43,A disappointing mess that fails to find its footing.
+100132,Return of Hidden Truths,2012,Sci-Fi,UK,15,5,Better left for late-night cable TV.
+100133,The Legend of The Diamond Heist,2013,Animation,Spain,72,59,"Enjoyable, though slightly predictable at times."
+100134,Escape from Cyber City 2077,2022,Documentary,France,75,88,"Enjoyable, though slightly predictable at times."
+100135,Quantum Leap (2010),2006,Comedy,Japan,60,47,Passable entertainment for fans of the genre.
+100136,Cosmic Drift (2011),2013,Documentary,USA,93,100,A modern classic that redefines its genre.
+100137,Mountain Peak High (2012),2020,Animation,UK,62,77,Passable entertainment for fans of the genre.
+100138,The Pearl Diver (2013),2012,Comedy,South Korea,70,76,Solid performances and a compelling narrative.
+100139,Beyond the Clouds (2014),2020,Thriller,Australia,22,27,Visually dull and narratively confusing.
+100140,The Urban Jungle: The Beginning,2016,Sci-Fi,UK,11,24,Better left for late-night cable TV.
+100141,Modern Warfare: The Silent Movie 2,2015,Drama,Japan,96,100,Visually stunning and emotionally gripping.
+100142,Return of Beyond the Clouds,2010,Comedy,France,61,68,Ambitious but struggles with pacing.
+100143,The Legend of Diamond Dust,2021,Fantasy,South Korea,96,86,Visually stunning and emotionally gripping.
+100144,Escape from Shadow of the Colossus,2012,Sci-Fi,France,81,68,"Enjoyable, though slightly predictable at times."
+100145,Platinum Soul (2020),2024,Horror,Germany,64,67,Passable entertainment for fans of the genre.
+100146,Mountain Peak High (2021),2004,Romance,South Korea,90,93,A modern classic that redefines its genre.
+100147,Silicon Valley Dreams (2022),2021,Action,Canada,29,25,Visually dull and narratively confusing.
+100148,Ancient Riddles (2023),2002,Thriller,South Korea,35,41,A disappointing mess that fails to find its footing.
+100149,Golden Empire (2024),2001,Action,USA,57,57,Ambitious but struggles with pacing.
+100150,Parallel Worlds: The Beginning,2004,Fantasy,South Korea,22,32,Visually dull and narratively confusing.
+100151,Velocity Zero 2,2017,Action,South Korea,86,100,"Enjoyable, though slightly predictable at times."
+100152,Return of Bronze Age Chronicles,2021,Sci-Fi,USA,74,64,"Enjoyable, though slightly predictable at times."
+100153,The Legend of Diamond Dust,2011,Documentary,Spain,84,79,"Enjoyable, though slightly predictable at times."
+100154,Escape from Last Train to Paris,2000,Animation,Canada,10,19,Better left for late-night cable TV.
+100155,Silver Bullet (2005),2010,Documentary,USA,55,68,Passable entertainment for fans of the genre.
+100156,Hidden Truths (2006),2004,Animation,France,61,73,Passable entertainment for fans of the genre.
+100157,Shadow of the Colossus (2007),2001,Romance,India,52,61,Passable entertainment for fans of the genre.
+100158,The Digital Frontier (2008),2000,Horror,Germany,15,5,Visually dull and narratively confusing.
+100159,Ancient Riddles (2009),2007,Horror,UK,35,45,A disappointing mess that fails to find its footing.
+100160,Silicon Valley Dreams: The Beginning,2010,Romance,UK,26,25,A disappointing mess that fails to find its footing.
+100161,Silver Bullet 2,2017,Fantasy,Spain,85,82,A well-crafted experience that mostly lands.
+100162,Return of Under the Moonlight,2005,Romance,South Korea,96,100,A masterclass in filmmaking that resonates deeply.
+100163,The Legend of Quantum Leap,2012,Documentary,India,98,100,A masterclass in filmmaking that resonates deeply.
+100164,Escape from Cosmic Drift,2001,Romance,France,34,27,A disappointing mess that fails to find its footing.
+100165,Platinum Soul (2015),2004,Action,Canada,76,62,Solid performances and a compelling narrative.
+100166,Forgotten Memories (2016),2012,Animation,Canada,82,92,"Enjoyable, though slightly predictable at times."
+100167,Shadow of the Colossus (2017),2017,Thriller,India,99,94,A modern classic that redefines its genre.
+100168,Ancient Riddles (2018),2014,Drama,Canada,31,35,Better left for late-night cable TV.
+100169,Platinum Soul (2019),2007,Thriller,UK,91,100,Visually stunning and emotionally gripping.
+100170,Starship Avalon: The Beginning,2020,Action,India,66,51,A decent effort with some flashes of brilliance.
+100171,Velocity Zero 2,2002,Action,South Korea,38,25,Better left for late-night cable TV.
+100172,Return of Cyber City 2077,2015,Documentary,UK,75,86,"Enjoyable, though slightly predictable at times."
+100173,The Legend of Velocity Zero,2024,Drama,Germany,73,77,A well-crafted experience that mostly lands.
+100174,Escape from Shadow of the Colossus,2010,Horror,Japan,18,15,A disappointing mess that fails to find its footing.
+100175,Midnight in Kyoto (2000),2022,Horror,Canada,53,46,Passable entertainment for fans of the genre.
+100176,The Last Samurai Rising (2001),2021,Drama,Canada,17,27,Visually dull and narratively confusing.
+100177,Diamond Dust (2002),2012,Sci-Fi,Germany,96,100,A modern classic that redefines its genre.
+100178,Arctic Chill (2003),2007,Drama,Germany,79,85,A well-crafted experience that mostly lands.
+100179,Modern Warfare: The Silent Movie (2004),2014,Drama,France,62,77,A decent effort with some flashes of brilliance.
+100180,Ruby Red Skies: The Beginning,2020,Animation,France,75,83,"Enjoyable, though slightly predictable at times."
+100181,Deep Sea Secret 2,2023,Horror,UK,42,51,Visually dull and narratively confusing.
+100182,Return of Velocity Zero,2023,Animation,USA,98,100,Visually stunning and emotionally gripping.
+100183,The Legend of Hidden Truths,2011,Horror,France,21,12,A disappointing mess that fails to find its footing.
+100184,Escape from Deep Sea Secret,2002,Documentary,Australia,16,29,Better left for late-night cable TV.
+100185,Iron Heart (2010),2021,Fantasy,France,84,88,Solid performances and a compelling narrative.
+100186,Bronze Age Chronicles (2011),2002,Horror,Canada,20,34,Visually dull and narratively confusing.
+100187,The Emerald Gate (2012),2008,Comedy,France,15,5,A disappointing mess that fails to find its footing.
+100188,Midnight in Kyoto (2013),2001,Comedy,South Korea,79,84,A well-crafted experience that mostly lands.
+100189,Island Paradise Lost (2014),2019,Animation,Spain,85,84,"Enjoyable, though slightly predictable at times."
+100190,Bronze Age Chronicles: The Beginning,2010,Animation,Japan,57,60,Passable entertainment for fans of the genre.
+100191,Golden Empire 2,2023,Drama,Germany,68,71,Ambitious but struggles with pacing.
+100192,Return of Iron Heart,2017,Fantasy,South Korea,20,26,Visually dull and narratively confusing.
+100193,The Legend of Desert Rose,2021,Action,India,60,52,A decent effort with some flashes of brilliance.
+100194,Escape from Whispers in the Wind,2017,Romance,Canada,40,53,Better left for late-night cable TV.
+100195,Ruby Red Skies (2020),2009,Action,South Korea,86,71,"Enjoyable, though slightly predictable at times."
+100196,Beyond the Clouds (2021),2001,Romance,Japan,70,65,A well-crafted experience that mostly lands.
+100197,The Emerald Gate (2022),2015,Documentary,Germany,45,39,Better left for late-night cable TV.
+100198,Cyber City 2077 (2023),2005,Thriller,UK,96,81,A masterclass in filmmaking that resonates deeply.
+100199,Whispers in the Wind (2024),2024,Romance,Canada,33,45,A disappointing mess that fails to find its footing.
+100200,Silver Bullet: The Beginning,2000,Animation,UK,29,31,Visually dull and narratively confusing.
+100201,Mountain Peak High 2,2001,Comedy,UK,45,57,Better left for late-night cable TV.
+100202,Return of Midnight in Kyoto,2022,Documentary,Germany,82,92,"Enjoyable, though slightly predictable at times."
+100203,The Legend of Under the Moonlight,2019,Drama,UK,60,57,A decent effort with some flashes of brilliance.
+100204,Escape from Velocity Zero,2023,Action,Australia,86,83,A well-crafted experience that mostly lands.
+100205,Beyond the Clouds (2005),2002,Animation,Spain,61,70,Passable entertainment for fans of the genre.
+100206,Platinum Soul (2006),2018,Thriller,South Korea,38,38,Better left for late-night cable TV.
+100207,The Last Samurai Rising (2007),2016,Romance,Spain,87,89,Solid performances and a compelling narrative.
+100208,Forgotten Memories (2008),2022,Action,India,25,37,Visually dull and narratively confusing.
+100209,Silver Bullet (2009),2006,Sci-Fi,India,15,18,Better left for late-night cable TV.
+100210,Parallel Worlds: The Beginning,2024,Documentary,Japan,79,80,"Enjoyable, though slightly predictable at times."
+100211,Under the Moonlight 2,2009,Sci-Fi,Canada,92,82,A modern classic that redefines its genre.
+100212,Return of The Diamond Heist,2005,Action,USA,44,56,A disappointing mess that fails to find its footing.
+100213,The Legend of Iron Heart,2013,Fantasy,Australia,54,50,A decent effort with some flashes of brilliance.
+100214,Escape from Parallel Worlds,2015,Thriller,France,46,51,A disappointing mess that fails to find its footing.
+100215,Shadow of the Colossus (2015),2005,Action,France,38,30,Better left for late-night cable TV.
+100216,Ancient Riddles (2016),2002,Romance,Spain,48,33,A disappointing mess that fails to find its footing.
+100217,Shadow of the Colossus (2017),2024,Animation,Japan,56,41,Ambitious but struggles with pacing.
+100218,The Last Samurai Rising (2018),2012,Drama,Germany,19,26,Visually dull and narratively confusing.
+100219,Deep Sea Secret (2019),2006,Animation,India,71,60,"Enjoyable, though slightly predictable at times."
+100220,Arctic Chill: The Beginning,2000,Comedy,South Korea,46,46,A disappointing mess that fails to find its footing.
+100221,Cosmic Drift 2,2024,Fantasy,South Korea,67,59,A decent effort with some flashes of brilliance.
+100222,Return of Silver Bullet,2004,Animation,Australia,60,75,A decent effort with some flashes of brilliance.
+100223,The Legend of Last Train to Paris,2021,Comedy,Australia,13,8,Visually dull and narratively confusing.
+100224,Escape from Golden Empire,2022,Horror,South Korea,83,96,"Enjoyable, though slightly predictable at times."
+100225,Deep Sea Secret (2000),2007,Comedy,UK,53,48,A decent effort with some flashes of brilliance.
+100226,Silicon Valley Dreams (2001),2001,Documentary,France,53,48,A decent effort with some flashes of brilliance.
+100227,Cyber City 2077 (2002),2023,Romance,Germany,55,63,Passable entertainment for fans of the genre.
+100228,Starship Avalon (2003),2022,Thriller,Australia,45,46,Better left for late-night cable TV.
+100229,The Last Samurai Rising (2004),2010,Documentary,Japan,25,31,Visually dull and narratively confusing.
+100230,Hidden Truths: The Beginning,2009,Horror,India,27,15,Visually dull and narratively confusing.
+100231,Bronze Age Chronicles 2,2017,Thriller,India,16,22,Better left for late-night cable TV.
+100232,Return of Golden Empire,2010,Action,France,65,54,A decent effort with some flashes of brilliance.
+100233,The Legend of Eternal Sands,2023,Documentary,USA,57,67,Ambitious but struggles with pacing.
+100234,Escape from Island Paradise Lost,2009,Animation,France,89,90,A well-crafted experience that mostly lands.
+100235,Mountain Peak High (2010),2023,Action,USA,47,48,A disappointing mess that fails to find its footing.
+100236,Iron Heart (2011),2024,Sci-Fi,UK,24,39,Visually dull and narratively confusing.
+100237,Beyond the Clouds (2012),2023,Sci-Fi,USA,62,76,A decent effort with some flashes of brilliance.
+100238,The Emerald Gate (2013),2023,Thriller,UK,16,20,A disappointing mess that fails to find its footing.
+100239,Ruby Red Skies (2014),2001,Sci-Fi,USA,69,73,A decent effort with some flashes of brilliance.
+100240,Modern Warfare: The Silent Movie: The Beginning,2000,Fantasy,South Korea,67,55,A decent effort with some flashes of brilliance.
+100241,Diamond Dust 2,2002,Fantasy,Spain,84,70,"Enjoyable, though slightly predictable at times."
+100242,Return of Last Train to Paris,2009,Animation,Spain,42,34,Better left for late-night cable TV.
+100243,The Legend of The Diamond Heist,2010,Sci-Fi,Australia,71,66,Solid performances and a compelling narrative.
+100244,Escape from Velocity Zero,2011,Comedy,France,91,81,A modern classic that redefines its genre.
+100245,Golden Empire (2020),2011,Horror,UK,78,64,"Enjoyable, though slightly predictable at times."
+100246,Forgotten Memories (2021),2021,Drama,Australia,32,39,Visually dull and narratively confusing.
+100247,Golden Empire (2022),2013,Comedy,Canada,80,69,"Enjoyable, though slightly predictable at times."
+100248,Mountain Peak High (2023),2005,Sci-Fi,Spain,89,89,"Enjoyable, though slightly predictable at times."
+100249,Under the Moonlight (2024),2005,Romance,France,94,84,A masterclass in filmmaking that resonates deeply.
+100250,Diamond Dust: The Beginning,2021,Action,India,14,19,A disappointing mess that fails to find its footing.
+100251,Diamond Dust 2,2003,Comedy,USA,85,90,"Enjoyable, though slightly predictable at times."
+100252,Return of Velocity Zero,2003,Action,India,49,44,A disappointing mess that fails to find its footing.
+100253,The Legend of Cosmic Drift,2017,Fantasy,Spain,96,99,Visually stunning and emotionally gripping.
+100254,Escape from Cosmic Drift,2004,Thriller,USA,67,73,A decent effort with some flashes of brilliance.
+100255,The Emerald Gate (2005),2011,Romance,UK,38,36,Visually dull and narratively confusing.
+100256,Eternal Sands (2006),2017,Animation,USA,58,65,Ambitious but struggles with pacing.
+100257,Silver Bullet (2007),2017,Horror,India,89,81,Solid performances and a compelling narrative.
+100258,Sapphire Seas (2008),2023,Action,Japan,30,16,A disappointing mess that fails to find its footing.
+100259,The Last Samurai Rising (2009),2009,Animation,Canada,83,79,A well-crafted experience that mostly lands.
+100260,Forgotten Memories: The Beginning,2024,Animation,USA,70,83,A well-crafted experience that mostly lands.
+100261,Ruby Red Skies 2,2006,Drama,Australia,81,96,"Enjoyable, though slightly predictable at times."
+100262,Return of Silicon Valley Dreams,2016,Thriller,Germany,34,30,Visually dull and narratively confusing.
+100263,The Legend of Silicon Valley Dreams,2005,Drama,France,25,36,A disappointing mess that fails to find its footing.
+100264,Escape from Platinum Soul,2011,Thriller,Japan,56,51,Passable entertainment for fans of the genre.
+100265,Midnight in Kyoto (2015),2024,Romance,India,65,59,A decent effort with some flashes of brilliance.
+100266,The Great Gatsby V2 (2016),2002,Romance,USA,35,23,Better left for late-night cable TV.
+100267,Iron Heart (2017),2007,Romance,Japan,82,71,Solid performances and a compelling narrative.
+100268,Eternal Sands (2018),2004,Comedy,Spain,14,24,Better left for late-night cable TV.
+100269,The Great Gatsby V2 (2019),2002,Drama,Japan,27,31,A disappointing mess that fails to find its footing.
+100270,Bronze Age Chronicles: The Beginning,2014,Fantasy,UK,57,53,Ambitious but struggles with pacing.
+100271,Eternal Sands 2,2004,Documentary,UK,39,39,Visually dull and narratively confusing.
+100272,Return of Deep Sea Secret,2015,Animation,Canada,68,67,Ambitious but struggles with pacing.
+100273,The Legend of Bronze Age Chronicles,2012,Horror,France,24,38,Better left for late-night cable TV.
+100274,Escape from Eternal Sands,2024,Documentary,France,24,15,A disappointing mess that fails to find its footing.
+100275,Hidden Truths (2000),2003,Fantasy,South Korea,77,86,A well-crafted experience that mostly lands.
+100276,Midnight in Kyoto (2001),2019,Sci-Fi,India,19,18,Visually dull and narratively confusing.
+100277,Under the Moonlight (2002),2010,Fantasy,France,15,29,Visually dull and narratively confusing.
+100278,Mountain Peak High (2003),2004,Comedy,UK,25,33,Better left for late-night cable TV.
+100279,Platinum Soul (2004),2021,Fantasy,India,59,46,A decent effort with some flashes of brilliance.
+100280,Forgotten Memories: The Beginning,2010,Drama,India,50,52,Passable entertainment for fans of the genre.
+100281,Forgotten Memories 2,2017,Fantasy,Spain,10,13,Visually dull and narratively confusing.
+100282,Return of Modern Warfare: The Silent Movie,2022,Horror,Australia,52,62,Passable entertainment for fans of the genre.
+100283,The Legend of Quantum Leap,2003,Animation,Japan,98,98,Visually stunning and emotionally gripping.
+100284,Escape from Shadow of the Colossus,2020,Action,Germany,87,94,"Enjoyable, though slightly predictable at times."
+100285,Eternal Sands (2010),2020,Comedy,South Korea,39,49,Better left for late-night cable TV.
+100286,Last Train to Paris (2011),2013,Animation,South Korea,79,65,A well-crafted experience that mostly lands.
+100287,Quantum Leap (2012),2013,Thriller,USA,47,37,Visually dull and narratively confusing.
+100288,Ancient Riddles (2013),2010,Sci-Fi,India,49,54,Better left for late-night cable TV.
+100289,Island Paradise Lost (2014),2017,Action,USA,87,94,"Enjoyable, though slightly predictable at times."
+100290,The Diamond Heist: The Beginning,2023,Romance,Australia,94,100,A masterclass in filmmaking that resonates deeply.
+100291,Whispers in the Wind 2,2022,Sci-Fi,USA,93,100,Visually stunning and emotionally gripping.
+100292,Return of Deep Sea Secret,2021,Fantasy,France,78,92,"Enjoyable, though slightly predictable at times."
+100293,The Legend of The Ghost Ship,2001,Romance,Australia,27,15,Visually dull and narratively confusing.
+100294,Escape from Deep Sea Secret,2015,Action,Australia,37,51,Better left for late-night cable TV.
+100295,Bronze Age Chronicles (2020),2015,Comedy,Canada,98,100,A masterclass in filmmaking that resonates deeply.
+100296,Island Paradise Lost (2021),2021,Sci-Fi,Canada,51,39,Ambitious but struggles with pacing.
+100297,Arctic Chill (2022),2008,Thriller,USA,46,50,A disappointing mess that fails to find its footing.
+100298,Midnight in Kyoto (2023),2006,Comedy,USA,59,53,Passable entertainment for fans of the genre.
+100299,Silver Bullet (2024),2022,Sci-Fi,Japan,98,96,Visually stunning and emotionally gripping.
+100300,The Great Gatsby V2: The Beginning,2005,Fantasy,Australia,75,78,"Enjoyable, though slightly predictable at times."
+100301,Under the Moonlight 2,2021,Horror,India,93,81,Visually stunning and emotionally gripping.
+100302,Return of The Great Gatsby V2,2019,Animation,Spain,34,45,Visually dull and narratively confusing.
+100303,The Legend of Cyber City 2077,2003,Comedy,Australia,51,43,A decent effort with some flashes of brilliance.
+100304,Escape from The Emerald Gate,2024,Horror,UK,90,100,A masterclass in filmmaking that resonates deeply.
+100305,Island Paradise Lost (2005),2019,Documentary,Spain,99,91,A masterclass in filmmaking that resonates deeply.
+100306,Cosmic Drift (2006),2013,Documentary,Canada,30,42,Visually dull and narratively confusing.
+100307,Last Train to Paris (2007),2009,Drama,USA,41,38,Visually dull and narratively confusing.
+100308,Platinum Soul (2008),2014,Thriller,UK,91,100,A modern classic that redefines its genre.
+100309,The Diamond Heist (2009),2014,Animation,Spain,97,100,Visually stunning and emotionally gripping.
+100310,The Urban Jungle: The Beginning,2014,Drama,Germany,11,20,Visually dull and narratively confusing.
+100311,Forgotten Memories 2,2013,Thriller,Germany,26,26,Visually dull and narratively confusing.
+100312,Return of The Emerald Gate,2008,Action,Canada,63,51,Ambitious but struggles with pacing.
+100313,The Legend of Midnight in Kyoto,2018,Horror,Spain,24,23,A disappointing mess that fails to find its footing.
+100314,Escape from Diamond Dust,2003,Romance,Germany,85,90,"Enjoyable, though slightly predictable at times."
+100315,The Diamond Heist (2015),2016,Animation,Canada,94,92,Visually stunning and emotionally gripping.
+100316,Mountain Peak High (2016),2010,Fantasy,Germany,71,65,"Enjoyable, though slightly predictable at times."
+100317,Starship Avalon (2017),2022,Thriller,UK,80,70,A well-crafted experience that mostly lands.
+100318,Platinum Soul (2018),2000,Thriller,India,10,21,Better left for late-night cable TV.
+100319,Mountain Peak High (2019),2017,Romance,India,85,79,"Enjoyable, though slightly predictable at times."
+100320,The Pearl Diver: The Beginning,2014,Thriller,Australia,32,38,Visually dull and narratively confusing.
+100321,Cosmic Drift 2,2022,Animation,USA,41,34,Better left for late-night cable TV.
+100322,Return of Quantum Leap,2011,Horror,Spain,90,77,Visually stunning and emotionally gripping.
+100323,The Legend of Bronze Age Chronicles,2012,Horror,India,42,27,Visually dull and narratively confusing.
+100324,Escape from Bronze Age Chronicles,2021,Documentary,India,84,88,A well-crafted experience that mostly lands.
+100325,The Last Samurai Rising (2000),2009,Drama,France,62,47,Ambitious but struggles with pacing.
+100326,Eternal Sands (2001),2010,Animation,Spain,70,77,"Enjoyable, though slightly predictable at times."
+100327,Hidden Truths (2002),2003,Documentary,Japan,64,70,A decent effort with some flashes of brilliance.
+100328,Silver Bullet (2003),2005,Thriller,Japan,56,52,A decent effort with some flashes of brilliance.
+100329,Iron Heart (2004),2024,Comedy,UK,10,5,Visually dull and narratively confusing.
+100330,The Ghost Ship: The Beginning,2017,Drama,Australia,99,100,Visually stunning and emotionally gripping.
+100331,Neon Pulse 2,2017,Horror,Japan,88,100,"Enjoyable, though slightly predictable at times."
+100332,Return of Shadow of the Colossus,2018,Sci-Fi,UK,62,58,Ambitious but struggles with pacing.
+100333,The Legend of Shadow of the Colossus,2010,Comedy,Spain,49,43,Visually dull and narratively confusing.
+100334,Escape from Ancient Riddles,2004,Sci-Fi,France,35,30,A disappointing mess that fails to find its footing.
+100335,Shadow of the Colossus (2010),2009,Drama,India,49,59,Visually dull and narratively confusing.
+100336,Deep Sea Secret (2011),2022,Comedy,South Korea,37,44,Visually dull and narratively confusing.
+100337,Golden Empire (2012),2001,Drama,UK,53,48,A decent effort with some flashes of brilliance.
+100338,Silver Bullet (2013),2009,Comedy,Australia,53,60,Ambitious but struggles with pacing.
+100339,The Last Samurai Rising (2014),2015,Thriller,India,38,51,Visually dull and narratively confusing.
+100340,Desert Rose: The Beginning,2008,Drama,South Korea,97,96,Visually stunning and emotionally gripping.
+100341,Deep Sea Secret 2,2014,Documentary,UK,95,82,A modern classic that redefines its genre.
+100342,Return of Cosmic Drift,2014,Thriller,France,91,100,A modern classic that redefines its genre.
+100343,The Legend of Silicon Valley Dreams,2014,Drama,Canada,16,28,Visually dull and narratively confusing.
+100344,Escape from Shadow of the Colossus,2021,Romance,Canada,82,91,"Enjoyable, though slightly predictable at times."
+100345,The Diamond Heist (2020),2009,Sci-Fi,South Korea,59,50,Ambitious but struggles with pacing.
+100346,Diamond Dust (2021),2019,Action,Spain,88,73,"Enjoyable, though slightly predictable at times."
+100347,Neon Pulse (2022),2003,Horror,India,100,100,A modern classic that redefines its genre.
+100348,Iron Heart (2023),2003,Documentary,France,66,60,Passable entertainment for fans of the genre.
+100349,Silver Bullet (2024),2023,Drama,Canada,50,65,Passable entertainment for fans of the genre.
+100350,Parallel Worlds: The Beginning,2018,Documentary,UK,54,40,Ambitious but struggles with pacing.
+100351,The Urban Jungle 2,2020,Sci-Fi,UK,79,87,A well-crafted experience that mostly lands.
+100352,Return of The Urban Jungle,2010,Action,Spain,22,31,Visually dull and narratively confusing.
+100353,The Legend of Mountain Peak High,2007,Horror,Germany,86,75,"Enjoyable, though slightly predictable at times."
+100354,Escape from Velocity Zero,2000,Romance,France,91,77,A modern classic that redefines its genre.
+100355,Cyber City 2077 (2005),2013,Sci-Fi,Spain,54,63,Ambitious but struggles with pacing.
+100356,Deep Sea Secret (2006),2011,Comedy,USA,85,83,A well-crafted experience that mostly lands.
+100357,Diamond Dust (2007),2008,Drama,UK,71,59,Solid performances and a compelling narrative.
+100358,Forgotten Memories (2008),2021,Sci-Fi,South Korea,58,66,Ambitious but struggles with pacing.
+100359,Golden Empire (2009),2024,Animation,Canada,81,66,Solid performances and a compelling narrative.
+100360,Silicon Valley Dreams: The Beginning,2000,Fantasy,Japan,15,5,A disappointing mess that fails to find its footing.
+100361,Deep Sea Secret 2,2017,Drama,UK,18,23,Visually dull and narratively confusing.
+100362,Return of Cosmic Drift,2017,Romance,Canada,69,60,A decent effort with some flashes of brilliance.
+100363,The Legend of Platinum Soul,2004,Action,Spain,28,39,Visually dull and narratively confusing.
+100364,Escape from The Digital Frontier,2017,Romance,France,91,76,Visually stunning and emotionally gripping.
+100365,The Last Samurai Rising (2015),2011,Comedy,Germany,57,50,Ambitious but struggles with pacing.
+100366,Shadow of the Colossus (2016),2014,Comedy,India,44,40,Better left for late-night cable TV.
+100367,The Diamond Heist (2017),2010,Thriller,USA,71,72,Solid performances and a compelling narrative.
+100368,Eternal Sands (2018),2007,Action,Germany,48,38,Better left for late-night cable TV.
+100369,The Great Gatsby V2 (2019),2021,Thriller,India,98,100,A modern classic that redefines its genre.
+100370,The Emerald Gate: The Beginning,2002,Animation,France,57,52,Passable entertainment for fans of the genre.
+100371,The Emerald Gate 2,2004,Drama,South Korea,89,92,"Enjoyable, though slightly predictable at times."
+100372,Return of Cosmic Drift,2014,Animation,South Korea,11,5,Better left for late-night cable TV.
+100373,The Legend of Starship Avalon,2002,Animation,Canada,68,54,A decent effort with some flashes of brilliance.
+100374,Escape from Desert Rose,2023,Sci-Fi,Japan,33,37,Better left for late-night cable TV.
+100375,Modern Warfare: The Silent Movie (2000),2024,Action,India,60,67,Passable entertainment for fans of the genre.
+100376,Midnight in Kyoto (2001),2020,Action,UK,52,42,A decent effort with some flashes of brilliance.
+100377,Neon Pulse (2002),2003,Documentary,Japan,69,74,Passable entertainment for fans of the genre.
+100378,Ruby Red Skies (2003),2001,Action,Spain,98,98,A modern classic that redefines its genre.
+100379,Cyber City 2077 (2004),2014,Romance,Australia,28,38,A disappointing mess that fails to find its footing.
+100380,Deep Sea Secret: The Beginning,2011,Horror,France,30,37,Better left for late-night cable TV.
+100381,Eternal Sands 2,2016,Sci-Fi,Germany,58,49,Passable entertainment for fans of the genre.
+100382,Return of The Ghost Ship,2003,Fantasy,Germany,17,5,Better left for late-night cable TV.
+100383,The Legend of The Last Samurai Rising,2004,Thriller,Canada,29,21,Visually dull and narratively confusing.
+100384,Escape from Desert Rose,2012,Fantasy,France,15,12,Visually dull and narratively confusing.
+100385,Desert Rose (2010),2000,Horror,Canada,87,100,A well-crafted experience that mostly lands.
+100386,Cyber City 2077 (2011),2013,Documentary,Spain,41,44,Visually dull and narratively confusing.
+100387,The Great Gatsby V2 (2012),2008,Action,USA,11,22,Visually dull and narratively confusing.
+100388,Silver Bullet (2013),2022,Comedy,South Korea,14,8,Visually dull and narratively confusing.
+100389,The Last Samurai Rising (2014),2021,Sci-Fi,France,39,41,A disappointing mess that fails to find its footing.
+100390,The Digital Frontier: The Beginning,2013,Animation,Canada,50,38,Ambitious but struggles with pacing.
+100391,Deep Sea Secret 2,2003,Documentary,Spain,40,35,Better left for late-night cable TV.
+100392,Return of Eternal Sands,2023,Action,South Korea,53,44,A decent effort with some flashes of brilliance.
+100393,The Legend of Iron Heart,2010,Thriller,Spain,48,61,Visually dull and narratively confusing.
+100394,Escape from Beyond the Clouds,2009,Documentary,USA,68,80,Ambitious but struggles with pacing.
+100395,Modern Warfare: The Silent Movie (2020),2024,Documentary,USA,55,55,A decent effort with some flashes of brilliance.
+100396,Arctic Chill (2021),2021,Drama,USA,90,77,Visually stunning and emotionally gripping.
+100397,Quantum Leap (2022),2022,Documentary,USA,40,32,Better left for late-night cable TV.
+100398,Midnight in Kyoto (2023),2000,Thriller,Canada,57,52,Passable entertainment for fans of the genre.
+100399,Ancient Riddles (2024),2016,Fantasy,Spain,89,80,"Enjoyable, though slightly predictable at times."
+100400,Modern Warfare: The Silent Movie: The Beginning,2003,Romance,France,77,83,Solid performances and a compelling narrative.
+100401,Platinum Soul 2,2010,Comedy,India,89,99,A well-crafted experience that mostly lands.
+100402,Return of Cyber City 2077,2022,Sci-Fi,UK,32,26,Better left for late-night cable TV.
+100403,The Legend of Golden Empire,2004,Animation,India,24,10,Visually dull and narratively confusing.
+100404,Escape from Ancient Riddles,2020,Drama,Japan,38,32,A disappointing mess that fails to find its footing.
+100405,Cyber City 2077 (2005),2016,Horror,Japan,11,5,A disappointing mess that fails to find its footing.
+100406,Starship Avalon (2006),2010,Romance,USA,100,100,Visually stunning and emotionally gripping.
+100407,Starship Avalon (2007),2014,Sci-Fi,Canada,99,95,A modern classic that redefines its genre.
+100408,Desert Rose (2008),2016,Horror,USA,47,33,Better left for late-night cable TV.
+100409,The Ghost Ship (2009),2005,Sci-Fi,Spain,24,37,Visually dull and narratively confusing.
+100410,The Digital Frontier: The Beginning,2005,Romance,South Korea,77,76,"Enjoyable, though slightly predictable at times."
+100411,Silicon Valley Dreams 2,2006,Romance,India,44,35,Visually dull and narratively confusing.
+100412,Return of Beyond the Clouds,2021,Comedy,India,28,14,Better left for late-night cable TV.
+100413,The Legend of Hidden Truths,2008,Thriller,Spain,84,78,"Enjoyable, though slightly predictable at times."
+100414,Escape from Arctic Chill,2002,Animation,UK,89,80,A well-crafted experience that mostly lands.
+100415,Golden Empire (2015),2022,Romance,Japan,42,39,A disappointing mess that fails to find its footing.
+100416,Iron Heart (2016),2003,Fantasy,Australia,46,34,A disappointing mess that fails to find its footing.
+100417,Last Train to Paris (2017),2005,Documentary,Spain,43,36,Better left for late-night cable TV.
+100418,Island Paradise Lost (2018),2020,Drama,Canada,11,5,A disappointing mess that fails to find its footing.
+100419,Parallel Worlds (2019),2009,Drama,Spain,62,48,Ambitious but struggles with pacing.
+100420,Golden Empire: The Beginning,2000,Action,India,66,74,Ambitious but struggles with pacing.
+100421,The Diamond Heist 2,2016,Comedy,India,37,23,Better left for late-night cable TV.
+100422,Return of Neon Pulse,2000,Horror,Canada,75,67,Solid performances and a compelling narrative.
+100423,The Legend of Ancient Riddles,2014,Romance,Japan,43,42,Better left for late-night cable TV.
+100424,Escape from The Last Samurai Rising,2009,Sci-Fi,Germany,71,56,"Enjoyable, though slightly predictable at times."
+100425,The Digital Frontier (2000),2010,Sci-Fi,Spain,97,100,Visually stunning and emotionally gripping.
+100426,Eternal Sands (2001),2024,Romance,Germany,63,49,A decent effort with some flashes of brilliance.
+100427,Quantum Leap (2002),2005,Drama,Canada,53,46,A decent effort with some flashes of brilliance.
+100428,The Great Gatsby V2 (2003),2009,Action,UK,17,15,Visually dull and narratively confusing.
+100429,Deep Sea Secret (2004),2014,Fantasy,Canada,52,53,A decent effort with some flashes of brilliance.
+100430,Parallel Worlds: The Beginning,2018,Horror,India,35,38,A disappointing mess that fails to find its footing.
+100431,Golden Empire 2,2023,Animation,UK,14,25,Better left for late-night cable TV.
+100432,Return of The Pearl Diver,2016,Thriller,UK,85,84,A well-crafted experience that mostly lands.
+100433,The Legend of The Pearl Diver,2010,Sci-Fi,Spain,58,63,Ambitious but struggles with pacing.
+100434,Escape from Cosmic Drift,2016,Sci-Fi,USA,49,54,A disappointing mess that fails to find its footing.
+100435,Cyber City 2077 (2010),2021,Documentary,USA,22,17,Better left for late-night cable TV.
+100436,Bronze Age Chronicles (2011),2009,Documentary,Spain,12,11,A disappointing mess that fails to find its footing.
+100437,The Urban Jungle (2012),2010,Action,Germany,36,49,Visually dull and narratively confusing.
+100438,Hidden Truths (2013),2022,Action,Canada,32,25,Better left for late-night cable TV.
+100439,The Digital Frontier (2014),2020,Thriller,South Korea,10,16,Better left for late-night cable TV.
+100440,Iron Heart: The Beginning,2020,Documentary,UK,15,20,Visually dull and narratively confusing.
+100441,Ruby Red Skies 2,2000,Thriller,Germany,91,77,Visually stunning and emotionally gripping.
+100442,Return of Deep Sea Secret,2011,Fantasy,Canada,25,28,Visually dull and narratively confusing.
+100443,The Legend of Golden Empire,2007,Action,France,79,93,A well-crafted experience that mostly lands.
+100444,Escape from The Last Samurai Rising,2017,Sci-Fi,UK,46,35,A disappointing mess that fails to find its footing.
+100445,Hidden Truths (2020),2020,Horror,South Korea,80,79,A well-crafted experience that mostly lands.
+100446,Diamond Dust (2021),2014,Sci-Fi,France,61,57,Ambitious but struggles with pacing.
+100447,Desert Rose (2022),2021,Sci-Fi,South Korea,29,16,A disappointing mess that fails to find its footing.
+100448,The Emerald Gate (2023),2021,Romance,Japan,80,91,"Enjoyable, though slightly predictable at times."
+100449,Diamond Dust (2024),2009,Thriller,Canada,61,69,A decent effort with some flashes of brilliance.
+100450,The Digital Frontier: The Beginning,2011,Sci-Fi,Japan,53,48,A decent effort with some flashes of brilliance.
+100451,Under the Moonlight 2,2006,Action,Spain,68,56,Ambitious but struggles with pacing.
+100452,Return of The Pearl Diver,2007,Romance,USA,40,45,Visually dull and narratively confusing.
+100453,The Legend of Eternal Sands,2009,Documentary,France,52,60,A decent effort with some flashes of brilliance.
+100454,Escape from Deep Sea Secret,2012,Romance,India,26,38,A disappointing mess that fails to find its footing.
+100455,Neon Pulse (2005),2007,Horror,UK,32,35,Visually dull and narratively confusing.
+100456,Ruby Red Skies (2006),2020,Romance,South Korea,43,58,Visually dull and narratively confusing.
+100457,Quantum Leap (2007),2014,Thriller,USA,12,20,Better left for late-night cable TV.
+100458,The Digital Frontier (2008),2016,Sci-Fi,USA,81,83,"Enjoyable, though slightly predictable at times."
+100459,Parallel Worlds (2009),2021,Horror,Germany,24,37,A disappointing mess that fails to find its footing.
+100460,The Great Gatsby V2: The Beginning,2020,Sci-Fi,Canada,86,100,Solid performances and a compelling narrative.
+100461,Platinum Soul 2,2007,Romance,Australia,99,100,Visually stunning and emotionally gripping.
+100462,Return of Bronze Age Chronicles,2015,Action,France,69,58,Ambitious but struggles with pacing.
+100463,The Legend of Shadow of the Colossus,2016,Action,Germany,39,30,A disappointing mess that fails to find its footing.
+100464,Escape from Silicon Valley Dreams,2019,Comedy,UK,60,57,Ambitious but struggles with pacing.
+100465,Under the Moonlight (2015),2003,Action,Spain,89,100,A well-crafted experience that mostly lands.
+100466,Cyber City 2077 (2016),2013,Horror,Germany,49,51,A disappointing mess that fails to find its footing.
+100467,Cosmic Drift (2017),2016,Documentary,Canada,12,5,Visually dull and narratively confusing.
+100468,Iron Heart (2018),2017,Sci-Fi,Spain,100,100,A masterclass in filmmaking that resonates deeply.
+100469,Shadow of the Colossus (2019),2015,Action,UK,26,12,Better left for late-night cable TV.
+100470,Cyber City 2077: The Beginning,2020,Drama,Australia,30,26,Visually dull and narratively confusing.
+100471,Forgotten Memories 2,2011,Thriller,Australia,46,58,Better left for late-night cable TV.
+100472,Return of Modern Warfare: The Silent Movie,2010,Fantasy,Canada,15,5,Better left for late-night cable TV.
+100473,The Legend of Starship Avalon,2018,Fantasy,Japan,55,44,A decent effort with some flashes of brilliance.
+100474,Escape from Modern Warfare: The Silent Movie,2020,Drama,South Korea,90,92,A masterclass in filmmaking that resonates deeply.
+100475,Under the Moonlight (2000),2011,Horror,France,71,80,Solid performances and a compelling narrative.
+100476,Velocity Zero (2001),2008,Fantasy,USA,98,99,Visually stunning and emotionally gripping.
+100477,Golden Empire (2002),2022,Documentary,Japan,28,43,Better left for late-night cable TV.
+100478,The Emerald Gate (2003),2007,Drama,Canada,42,42,Visually dull and narratively confusing.
+100479,Forgotten Memories (2004),2023,Thriller,France,80,68,Solid performances and a compelling narrative.
+100480,Ancient Riddles: The Beginning,2023,Thriller,Germany,45,34,A disappointing mess that fails to find its footing.
+100481,Midnight in Kyoto 2,2001,Horror,India,80,70,Solid performances and a compelling narrative.
+100482,Return of Hidden Truths,2017,Thriller,South Korea,51,51,A decent effort with some flashes of brilliance.
+100483,The Legend of Island Paradise Lost,2004,Drama,South Korea,76,78,"Enjoyable, though slightly predictable at times."
+100484,Escape from Mountain Peak High,2009,Horror,UK,55,49,Ambitious but struggles with pacing.
+100485,Desert Rose (2010),2002,Romance,Australia,79,88,Solid performances and a compelling narrative.
+100486,Modern Warfare: The Silent Movie (2011),2021,Comedy,USA,73,73,A well-crafted experience that mostly lands.
+100487,Eternal Sands (2012),2021,Thriller,Germany,42,33,Better left for late-night cable TV.
+100488,The Last Samurai Rising (2013),2010,Thriller,India,71,77,Solid performances and a compelling narrative.
+100489,Neon Pulse (2014),2005,Drama,Japan,20,20,A disappointing mess that fails to find its footing.
+100490,The Pearl Diver: The Beginning,2006,Comedy,South Korea,53,61,Ambitious but struggles with pacing.
+100491,Quantum Leap 2,2006,Fantasy,India,67,78,A decent effort with some flashes of brilliance.
+100492,Return of Platinum Soul,2008,Horror,Australia,90,75,Visually stunning and emotionally gripping.
+100493,The Legend of The Pearl Diver,2016,Animation,Spain,19,34,A disappointing mess that fails to find its footing.
+100494,Escape from Cyber City 2077,2002,Animation,France,33,41,Better left for late-night cable TV.
+100495,Shadow of the Colossus (2020),2003,Horror,Germany,92,97,Visually stunning and emotionally gripping.
+100496,Platinum Soul (2021),2002,Comedy,Germany,18,18,A disappointing mess that fails to find its footing.
+100497,Parallel Worlds (2022),2022,Action,UK,87,82,"Enjoyable, though slightly predictable at times."
+100498,Silver Bullet (2023),2003,Animation,Germany,99,100,A modern classic that redefines its genre.
+100499,Desert Rose (2024),2006,Drama,Spain,30,28,Better left for late-night cable TV.
+100500,Deep Sea Secret: The Beginning,2016,Thriller,South Korea,99,96,A masterclass in filmmaking that resonates deeply.
+100501,Mountain Peak High 2,2014,Thriller,Spain,39,47,Better left for late-night cable TV.
+100502,Return of Beyond the Clouds,2009,Documentary,India,37,40,A disappointing mess that fails to find its footing.
+100503,The Legend of Silicon Valley Dreams,2022,Documentary,Australia,78,79,"Enjoyable, though slightly predictable at times."
+100504,Escape from Hidden Truths,2013,Animation,France,97,92,Visually stunning and emotionally gripping.
+100505,Quantum Leap (2005),2001,Animation,Canada,33,23,Better left for late-night cable TV.
+100506,Platinum Soul (2006),2004,Drama,India,81,85,Solid performances and a compelling narrative.
+100507,The Emerald Gate (2007),2003,Horror,Australia,12,26,A disappointing mess that fails to find its footing.
+100508,Parallel Worlds (2008),2013,Fantasy,Japan,69,71,Passable entertainment for fans of the genre.
+100509,Forgotten Memories (2009),2017,Action,Spain,73,73,A well-crafted experience that mostly lands.
+100510,Golden Empire: The Beginning,2016,Animation,USA,88,89,A well-crafted experience that mostly lands.
+100511,Last Train to Paris 2,2019,Animation,Japan,99,100,Visually stunning and emotionally gripping.
+100512,Return of Cyber City 2077,2002,Sci-Fi,Canada,59,50,Passable entertainment for fans of the genre.
+100513,The Legend of Desert Rose,2011,Drama,Germany,38,45,Visually dull and narratively confusing.
+100514,Escape from Quantum Leap,2023,Romance,Japan,19,20,Better left for late-night cable TV.
+100515,Ruby Red Skies (2015),2019,Sci-Fi,Australia,66,53,Passable entertainment for fans of the genre.
+100516,Forgotten Memories (2016),2017,Drama,France,99,100,A masterclass in filmmaking that resonates deeply.
+100517,Modern Warfare: The Silent Movie (2017),2023,Action,Spain,13,5,A disappointing mess that fails to find its footing.
+100518,Modern Warfare: The Silent Movie (2018),2009,Horror,Japan,15,13,Better left for late-night cable TV.
+100519,The Diamond Heist (2019),2013,Romance,India,82,81,Solid performances and a compelling narrative.
+100520,The Digital Frontier: The Beginning,2018,Comedy,India,46,45,Better left for late-night cable TV.
+100521,The Great Gatsby V2 2,2024,Sci-Fi,Germany,81,67,A well-crafted experience that mostly lands.
+100522,Return of Sapphire Seas,2004,Thriller,Germany,37,46,Better left for late-night cable TV.
+100523,The Legend of Last Train to Paris,2003,Comedy,USA,29,34,Better left for late-night cable TV.
+100524,Escape from The Ghost Ship,2022,Horror,South Korea,19,12,Visually dull and narratively confusing.
+100525,The Diamond Heist (2000),2002,Comedy,Canada,27,12,Better left for late-night cable TV.
+100526,Quantum Leap (2001),2008,Action,Canada,48,53,A disappointing mess that fails to find its footing.
+100527,Neon Pulse (2002),2014,Thriller,South Korea,37,26,A disappointing mess that fails to find its footing.
+100528,Arctic Chill (2003),2014,Fantasy,South Korea,70,81,"Enjoyable, though slightly predictable at times."
+100529,Midnight in Kyoto (2004),2012,Fantasy,USA,23,35,A disappointing mess that fails to find its footing.
+100530,Deep Sea Secret: The Beginning,2023,Action,Japan,13,12,Better left for late-night cable TV.
+100531,The Diamond Heist 2,2003,Drama,UK,92,88,A modern classic that redefines its genre.
+100532,Return of Last Train to Paris,2018,Comedy,Spain,16,20,Better left for late-night cable TV.
+100533,The Legend of Under the Moonlight,2014,Thriller,India,39,24,Better left for late-night cable TV.
+100534,Escape from Golden Empire,2013,Comedy,Spain,53,62,Ambitious but struggles with pacing.
+100535,Starship Avalon (2010),2013,Sci-Fi,USA,58,71,Passable entertainment for fans of the genre.
+100536,Forgotten Memories (2011),2020,Thriller,India,78,83,Solid performances and a compelling narrative.
+100537,The Great Gatsby V2 (2012),2001,Sci-Fi,Spain,34,44,Visually dull and narratively confusing.
+100538,Shadow of the Colossus (2013),2011,Comedy,Germany,70,71,Solid performances and a compelling narrative.
+100539,The Digital Frontier (2014),2002,Sci-Fi,UK,68,55,Ambitious but struggles with pacing.
+100540,Starship Avalon: The Beginning,2002,Horror,Australia,35,23,Better left for late-night cable TV.
+100541,Sapphire Seas 2,2019,Animation,Australia,52,41,Ambitious but struggles with pacing.
+100542,Return of The Urban Jungle,2017,Action,Germany,25,30,A disappointing mess that fails to find its footing.
+100543,The Legend of The Pearl Diver,2016,Comedy,Spain,74,80,Solid performances and a compelling narrative.
+100544,Escape from Whispers in the Wind,2002,Fantasy,Australia,22,37,Better left for late-night cable TV.
+100545,Quantum Leap (2020),2011,Animation,Canada,98,100,A modern classic that redefines its genre.
+100546,Modern Warfare: The Silent Movie (2021),2001,Romance,UK,71,69,"Enjoyable, though slightly predictable at times."
+100547,Shadow of the Colossus (2022),2019,Thriller,USA,96,100,A masterclass in filmmaking that resonates deeply.
+100548,Iron Heart (2023),2014,Comedy,France,15,5,Better left for late-night cable TV.
+100549,Forgotten Memories (2024),2013,Thriller,Germany,95,93,Visually stunning and emotionally gripping.
+100550,Midnight in Kyoto: The Beginning,2011,Fantasy,Australia,18,24,Better left for late-night cable TV.
+100551,Under the Moonlight 2,2003,Animation,France,12,5,Visually dull and narratively confusing.
+100552,Return of Sapphire Seas,2012,Thriller,Japan,60,69,Ambitious but struggles with pacing.
+100553,The Legend of Ancient Riddles,2021,Horror,Germany,53,38,Ambitious but struggles with pacing.
+100554,Escape from Shadow of the Colossus,2005,Horror,India,82,68,Solid performances and a compelling narrative.
+100555,The Last Samurai Rising (2005),2006,Fantasy,Australia,24,11,Better left for late-night cable TV.
+100556,Hidden Truths (2006),2013,Documentary,Canada,52,66,A decent effort with some flashes of brilliance.
+100557,Diamond Dust (2007),2012,Thriller,Spain,22,36,Better left for late-night cable TV.
+100558,Neon Pulse (2008),2003,Horror,India,95,100,A modern classic that redefines its genre.
+100559,The Great Gatsby V2 (2009),2002,Horror,Canada,10,5,A disappointing mess that fails to find its footing.
+100560,The Pearl Diver: The Beginning,2021,Documentary,France,50,61,Ambitious but struggles with pacing.
+100561,Cosmic Drift 2,2003,Comedy,Australia,39,51,Visually dull and narratively confusing.
+100562,Return of Silicon Valley Dreams,2017,Sci-Fi,Germany,22,22,Visually dull and narratively confusing.
+100563,The Legend of Shadow of the Colossus,2006,Action,Spain,24,33,Better left for late-night cable TV.
+100564,Escape from Midnight in Kyoto,2009,Romance,France,26,28,A disappointing mess that fails to find its footing.
+100565,Hidden Truths (2015),2023,Drama,South Korea,19,32,Better left for late-night cable TV.
+100566,Modern Warfare: The Silent Movie (2016),2017,Sci-Fi,Spain,45,40,Visually dull and narratively confusing.
+100567,Whispers in the Wind (2017),2017,Sci-Fi,Spain,66,75,Ambitious but struggles with pacing.
+100568,Hidden Truths (2018),2020,Romance,France,70,59,Solid performances and a compelling narrative.
+100569,Neon Pulse (2019),2015,Sci-Fi,Australia,50,49,Ambitious but struggles with pacing.
+100570,Platinum Soul: The Beginning,2018,Animation,Australia,94,87,A masterclass in filmmaking that resonates deeply.
+100571,Shadow of the Colossus 2,2011,Drama,South Korea,75,90,A well-crafted experience that mostly lands.
+100572,Return of Platinum Soul,2008,Sci-Fi,Australia,29,44,Better left for late-night cable TV.
+100573,The Legend of Parallel Worlds,2016,Thriller,USA,11,5,A disappointing mess that fails to find its footing.
+100574,Escape from Forgotten Memories,2020,Sci-Fi,Canada,43,47,Better left for late-night cable TV.
+100575,Starship Avalon (2000),2023,Animation,Germany,89,80,A well-crafted experience that mostly lands.
+100576,Arctic Chill (2001),2003,Comedy,Germany,83,93,Solid performances and a compelling narrative.
+100577,Ruby Red Skies (2002),2018,Thriller,Australia,15,24,A disappointing mess that fails to find its footing.
+100578,Island Paradise Lost (2003),2013,Thriller,Germany,29,30,Better left for late-night cable TV.
+100579,Last Train to Paris (2004),2010,Action,Australia,43,37,A disappointing mess that fails to find its footing.
+100580,Shadow of the Colossus: The Beginning,2000,Animation,Japan,41,32,A disappointing mess that fails to find its footing.
+100581,Bronze Age Chronicles 2,2012,Documentary,India,34,24,Visually dull and narratively confusing.
+100582,Return of Mountain Peak High,2016,Sci-Fi,France,25,21,A disappointing mess that fails to find its footing.
+100583,The Legend of Midnight in Kyoto,2020,Animation,Germany,11,5,A disappointing mess that fails to find its footing.
+100584,Escape from Cyber City 2077,2018,Documentary,France,79,88,A well-crafted experience that mostly lands.
+100585,The Last Samurai Rising (2010),2020,Horror,Australia,33,23,Visually dull and narratively confusing.
+100586,Ancient Riddles (2011),2003,Fantasy,UK,22,31,Visually dull and narratively confusing.
+100587,Forgotten Memories (2012),2001,Horror,USA,64,54,A decent effort with some flashes of brilliance.
+100588,The Emerald Gate (2013),2022,Romance,France,16,16,Visually dull and narratively confusing.
+100589,Island Paradise Lost (2014),2010,Fantasy,Japan,94,98,A masterclass in filmmaking that resonates deeply.
+100590,Velocity Zero: The Beginning,2016,Romance,Canada,17,11,Visually dull and narratively confusing.
+100591,Cosmic Drift 2,2000,Romance,USA,68,70,A decent effort with some flashes of brilliance.
+100592,Return of Parallel Worlds,2004,Animation,USA,87,89,"Enjoyable, though slightly predictable at times."
+100593,The Legend of Cyber City 2077,2006,Animation,India,29,43,Better left for late-night cable TV.
+100594,Escape from Silicon Valley Dreams,2024,Romance,Japan,15,22,A disappointing mess that fails to find its footing.
+100595,Iron Heart (2020),2000,Action,Japan,19,6,Visually dull and narratively confusing.
+100596,Modern Warfare: The Silent Movie (2021),2010,Romance,Spain,20,20,Visually dull and narratively confusing.
+100597,The Emerald Gate (2022),2024,Fantasy,Spain,72,82,"Enjoyable, though slightly predictable at times."
+100598,Iron Heart (2023),2017,Drama,Germany,61,66,Ambitious but struggles with pacing.
+100599,Deep Sea Secret (2024),2003,Documentary,India,59,56,A decent effort with some flashes of brilliance.
+100600,Sapphire Seas: The Beginning,2014,Animation,South Korea,94,98,A masterclass in filmmaking that resonates deeply.
+100601,The Emerald Gate 2,2021,Action,Spain,18,31,Better left for late-night cable TV.
+100602,Return of The Digital Frontier,2002,Drama,USA,31,38,Better left for late-night cable TV.
+100603,The Legend of Desert Rose,2012,Drama,Spain,30,15,Better left for late-night cable TV.
+100604,Escape from The Digital Frontier,2002,Fantasy,Australia,89,91,"Enjoyable, though slightly predictable at times."
+100605,Deep Sea Secret (2005),2007,Action,Australia,64,61,A decent effort with some flashes of brilliance.
+100606,The Pearl Diver (2006),2014,Horror,South Korea,37,42,A disappointing mess that fails to find its footing.
+100607,Cyber City 2077 (2007),2011,Romance,Germany,24,38,A disappointing mess that fails to find its footing.
+100608,Ruby Red Skies (2008),2013,Drama,Germany,77,88,Solid performances and a compelling narrative.
+100609,Diamond Dust (2009),2011,Romance,USA,13,23,A disappointing mess that fails to find its footing.
+100610,The Pearl Diver: The Beginning,2007,Romance,Germany,79,77,A well-crafted experience that mostly lands.
+100611,Island Paradise Lost 2,2007,Romance,Canada,32,45,Better left for late-night cable TV.
+100612,Return of Silicon Valley Dreams,2002,Horror,Canada,20,30,A disappointing mess that fails to find its footing.
+100613,The Legend of The Diamond Heist,2003,Sci-Fi,USA,95,85,Visually stunning and emotionally gripping.
+100614,Escape from Midnight in Kyoto,2009,Comedy,Australia,80,79,"Enjoyable, though slightly predictable at times."
+100615,Modern Warfare: The Silent Movie (2015),2011,Action,USA,51,61,Passable entertainment for fans of the genre.
+100616,Whispers in the Wind (2016),2013,Animation,Spain,36,21,A disappointing mess that fails to find its footing.
+100617,Hidden Truths (2017),2003,Comedy,Australia,60,49,Passable entertainment for fans of the genre.
+100618,Neon Pulse (2018),2010,Documentary,Canada,11,13,A disappointing mess that fails to find its footing.
+100619,Ruby Red Skies (2019),2004,Action,India,64,54,Ambitious but struggles with pacing.
+100620,Desert Rose: The Beginning,2020,Romance,Canada,100,100,A masterclass in filmmaking that resonates deeply.
+100621,Velocity Zero 2,2000,Horror,Canada,86,76,"Enjoyable, though slightly predictable at times."
+100622,Return of The Emerald Gate,2016,Comedy,USA,21,12,Better left for late-night cable TV.
+100623,The Legend of Ancient Riddles,2016,Sci-Fi,Australia,20,26,Visually dull and narratively confusing.
+100624,Escape from The Pearl Diver,2018,Comedy,Australia,88,100,"Enjoyable, though slightly predictable at times."
+100625,Neon Pulse (2000),2014,Animation,Germany,22,9,Better left for late-night cable TV.
+100626,The Pearl Diver (2001),2022,Drama,South Korea,99,100,A masterclass in filmmaking that resonates deeply.
+100627,Sapphire Seas (2002),2016,Fantasy,Canada,28,26,Visually dull and narratively confusing.
+100628,Last Train to Paris (2003),2011,Animation,Spain,23,27,Better left for late-night cable TV.
+100629,Silicon Valley Dreams (2004),2021,Documentary,Japan,65,51,A decent effort with some flashes of brilliance.
+100630,Eternal Sands: The Beginning,2000,Romance,Australia,36,45,Visually dull and narratively confusing.
+100631,Hidden Truths 2,2017,Thriller,South Korea,13,25,Better left for late-night cable TV.
+100632,Return of Forgotten Memories,2009,Romance,France,37,30,Visually dull and narratively confusing.
+100633,The Legend of Beyond the Clouds,2024,Fantasy,France,22,23,Visually dull and narratively confusing.
+100634,Escape from Ruby Red Skies,2008,Animation,Germany,36,21,Visually dull and narratively confusing.
+100635,The Great Gatsby V2 (2010),2011,Thriller,USA,39,32,A disappointing mess that fails to find its footing.
+100636,The Urban Jungle (2011),2015,Drama,France,52,67,Ambitious but struggles with pacing.
+100637,Quantum Leap (2012),2010,Romance,Canada,86,74,Solid performances and a compelling narrative.
+100638,Modern Warfare: The Silent Movie (2013),2020,Comedy,Germany,79,69,Solid performances and a compelling narrative.
+100639,The Emerald Gate (2014),2006,Action,Spain,18,5,Visually dull and narratively confusing.
+100640,Platinum Soul: The Beginning,2013,Documentary,Germany,22,9,Visually dull and narratively confusing.
+100641,The Ghost Ship 2,2005,Horror,France,84,85,A well-crafted experience that mostly lands.
+100642,Return of Silver Bullet,2007,Romance,Australia,95,100,A masterclass in filmmaking that resonates deeply.
+100643,The Legend of Last Train to Paris,2021,Thriller,USA,30,33,Better left for late-night cable TV.
+100644,Escape from Ruby Red Skies,2019,Action,Spain,84,85,"Enjoyable, though slightly predictable at times."
+100645,Midnight in Kyoto (2020),2011,Sci-Fi,South Korea,55,58,Ambitious but struggles with pacing.
+100646,Silicon Valley Dreams (2021),2023,Documentary,Australia,98,96,A masterclass in filmmaking that resonates deeply.
+100647,Mountain Peak High (2022),2019,Documentary,UK,60,50,Ambitious but struggles with pacing.
+100648,Platinum Soul (2023),2007,Romance,India,60,57,Passable entertainment for fans of the genre.
+100649,Iron Heart (2024),2012,Action,Australia,85,76,Solid performances and a compelling narrative.
+100650,Iron Heart: The Beginning,2017,Romance,Canada,48,45,Visually dull and narratively confusing.
+100651,Cyber City 2077 2,2020,Action,UK,61,63,A decent effort with some flashes of brilliance.
+100652,Return of Ruby Red Skies,2024,Fantasy,UK,47,55,A disappointing mess that fails to find its footing.
+100653,The Legend of Eternal Sands,2017,Horror,Australia,12,8,A disappointing mess that fails to find its footing.
+100654,Escape from Sapphire Seas,2013,Romance,India,20,10,Visually dull and narratively confusing.
+100655,The Diamond Heist (2005),2024,Action,South Korea,37,42,Visually dull and narratively confusing.
+100656,Sapphire Seas (2006),2003,Documentary,Canada,57,42,Ambitious but struggles with pacing.
+100657,Forgotten Memories (2007),2022,Romance,UK,13,8,A disappointing mess that fails to find its footing.
+100658,Last Train to Paris (2008),2002,Sci-Fi,Canada,80,84,Solid performances and a compelling narrative.
+100659,Quantum Leap (2009),2005,Romance,Japan,94,100,Visually stunning and emotionally gripping.
+100660,The Urban Jungle: The Beginning,2002,Action,France,94,100,A masterclass in filmmaking that resonates deeply.
+100661,Quantum Leap 2,2004,Romance,UK,92,98,Visually stunning and emotionally gripping.
+100662,Return of Eternal Sands,2008,Romance,UK,52,55,A decent effort with some flashes of brilliance.
+100663,The Legend of Cyber City 2077,2002,Thriller,Australia,40,39,Visually dull and narratively confusing.
+100664,Escape from Starship Avalon,2019,Comedy,Australia,38,51,Visually dull and narratively confusing.
+100665,Modern Warfare: The Silent Movie (2015),2014,Animation,Canada,52,59,Passable entertainment for fans of the genre.
+100666,Desert Rose (2016),2014,Thriller,Germany,19,10,Visually dull and narratively confusing.
+100667,Bronze Age Chronicles (2017),2024,Drama,Australia,77,73,"Enjoyable, though slightly predictable at times."
+100668,Golden Empire (2018),2020,Comedy,Spain,70,57,"Enjoyable, though slightly predictable at times."
+100669,Hidden Truths (2019),2002,Action,South Korea,30,22,A disappointing mess that fails to find its footing.
+100670,Bronze Age Chronicles: The Beginning,2023,Thriller,USA,12,22,Better left for late-night cable TV.
+100671,The Emerald Gate 2,2001,Documentary,UK,96,94,A masterclass in filmmaking that resonates deeply.
+100672,Return of Diamond Dust,2000,Drama,France,13,16,A disappointing mess that fails to find its footing.
+100673,The Legend of The Last Samurai Rising,2013,Horror,UK,53,41,Passable entertainment for fans of the genre.
+100674,Escape from Iron Heart,2016,Documentary,South Korea,44,39,A disappointing mess that fails to find its footing.
+100675,Forgotten Memories (2000),2022,Documentary,France,45,47,A disappointing mess that fails to find its footing.
+100676,Quantum Leap (2001),2013,Sci-Fi,Canada,31,22,A disappointing mess that fails to find its footing.
+100677,Forgotten Memories (2002),2019,Action,Canada,75,79,A well-crafted experience that mostly lands.
+100678,The Last Samurai Rising (2003),2012,Horror,Australia,65,66,Passable entertainment for fans of the genre.
+100679,Beyond the Clouds (2004),2004,Thriller,India,88,76,"Enjoyable, though slightly predictable at times."
+100680,Midnight in Kyoto: The Beginning,2009,Sci-Fi,Australia,25,33,A disappointing mess that fails to find its footing.
+100681,Last Train to Paris 2,2023,Romance,UK,61,66,Passable entertainment for fans of the genre.
+100682,Return of Cosmic Drift,2012,Fantasy,France,57,61,Passable entertainment for fans of the genre.
+100683,The Legend of Last Train to Paris,2010,Animation,Australia,20,17,A disappointing mess that fails to find its footing.
+100684,Escape from Neon Pulse,2005,Drama,Spain,67,82,Passable entertainment for fans of the genre.
+100685,The Emerald Gate (2010),2018,Romance,UK,20,30,Better left for late-night cable TV.
+100686,Quantum Leap (2011),2019,Comedy,France,85,97,A well-crafted experience that mostly lands.
+100687,The Emerald Gate (2012),2009,Documentary,India,32,28,Visually dull and narratively confusing.
+100688,Beyond the Clouds (2013),2005,Horror,India,99,100,A modern classic that redefines its genre.
+100689,Cosmic Drift (2014),2011,Action,Germany,16,11,Visually dull and narratively confusing.
+100690,Platinum Soul: The Beginning,2020,Thriller,Australia,73,59,"Enjoyable, though slightly predictable at times."
+100691,Silicon Valley Dreams 2,2008,Fantasy,UK,24,10,Visually dull and narratively confusing.
+100692,Return of Ancient Riddles,2007,Fantasy,India,25,29,Visually dull and narratively confusing.
+100693,The Legend of Island Paradise Lost,2006,Fantasy,South Korea,50,38,Ambitious but struggles with pacing.
+100694,Escape from Iron Heart,2022,Action,India,84,86,Solid performances and a compelling narrative.
+100695,The Ghost Ship (2020),2011,Drama,India,80,92,A well-crafted experience that mostly lands.
+100696,Whispers in the Wind (2021),2001,Documentary,Spain,58,54,Ambitious but struggles with pacing.
+100697,Platinum Soul (2022),2000,Romance,Canada,32,32,Better left for late-night cable TV.
+100698,Golden Empire (2023),2019,Animation,India,49,56,Visually dull and narratively confusing.
+100699,Hidden Truths (2024),2016,Horror,Japan,72,69,"Enjoyable, though slightly predictable at times."
+100700,Last Train to Paris: The Beginning,2018,Drama,South Korea,24,34,A disappointing mess that fails to find its footing.
+100701,The Urban Jungle 2,2016,Action,Australia,63,73,Ambitious but struggles with pacing.
+100702,Return of The Diamond Heist,2009,Horror,South Korea,97,96,A masterclass in filmmaking that resonates deeply.
+100703,The Legend of Under the Moonlight,2015,Thriller,Australia,68,58,Passable entertainment for fans of the genre.
+100704,Escape from Ancient Riddles,2006,Animation,Canada,98,92,A modern classic that redefines its genre.
+100705,Silver Bullet (2005),2024,Horror,France,77,82,A well-crafted experience that mostly lands.
+100706,The Emerald Gate (2006),2014,Thriller,UK,80,75,A well-crafted experience that mostly lands.
+100707,Golden Empire (2007),2003,Fantasy,India,51,50,Passable entertainment for fans of the genre.
+100708,Platinum Soul (2008),2018,Fantasy,Australia,57,55,Passable entertainment for fans of the genre.
+100709,Iron Heart (2009),2006,Horror,France,11,5,Visually dull and narratively confusing.
+100710,Arctic Chill: The Beginning,2016,Sci-Fi,UK,72,86,"Enjoyable, though slightly predictable at times."
+100711,Beyond the Clouds 2,2015,Animation,South Korea,43,29,Better left for late-night cable TV.
+100712,Return of The Urban Jungle,2016,Action,Spain,70,81,"Enjoyable, though slightly predictable at times."
+100713,The Legend of Sapphire Seas,2006,Sci-Fi,UK,21,18,Better left for late-night cable TV.
+100714,Escape from Island Paradise Lost,2018,Horror,Japan,22,14,Visually dull and narratively confusing.
+100715,Beyond the Clouds (2015),2008,Thriller,Spain,73,59,A well-crafted experience that mostly lands.
+100716,Ancient Riddles (2016),2000,Sci-Fi,USA,47,42,Visually dull and narratively confusing.
+100717,Beyond the Clouds (2017),2014,Fantasy,Canada,48,45,Visually dull and narratively confusing.
+100718,Midnight in Kyoto (2018),2020,Sci-Fi,UK,81,81,A well-crafted experience that mostly lands.
+100719,Silicon Valley Dreams (2019),2006,Fantasy,Germany,35,25,A disappointing mess that fails to find its footing.
+100720,Silver Bullet: The Beginning,2024,Thriller,Australia,11,5,Visually dull and narratively confusing.
+100721,Cosmic Drift 2,2004,Fantasy,USA,36,37,A disappointing mess that fails to find its footing.
+100722,Return of Parallel Worlds,2012,Fantasy,Germany,50,60,A decent effort with some flashes of brilliance.
+100723,The Legend of Arctic Chill,2002,Fantasy,Canada,47,44,Visually dull and narratively confusing.
+100724,Escape from The Diamond Heist,2020,Drama,Germany,50,43,A decent effort with some flashes of brilliance.
+100725,Neon Pulse (2000),2022,Comedy,USA,80,89,"Enjoyable, though slightly predictable at times."
+100726,Sapphire Seas (2001),2022,Comedy,Japan,46,60,Better left for late-night cable TV.
+100727,Sapphire Seas (2002),2009,Documentary,South Korea,46,36,A disappointing mess that fails to find its footing.
+100728,Arctic Chill (2003),2016,Drama,South Korea,30,15,Visually dull and narratively confusing.
+100729,Arctic Chill (2004),2002,Horror,Germany,90,90,A modern classic that redefines its genre.
+100730,Velocity Zero: The Beginning,2013,Drama,UK,25,20,Visually dull and narratively confusing.
+100731,Platinum Soul 2,2013,Horror,South Korea,98,99,A masterclass in filmmaking that resonates deeply.
+100732,Return of Modern Warfare: The Silent Movie,2012,Animation,South Korea,24,36,Better left for late-night cable TV.
+100733,The Legend of Neon Pulse,2001,Comedy,South Korea,90,77,Visually stunning and emotionally gripping.
+100734,Escape from Ruby Red Skies,2002,Action,USA,15,7,Visually dull and narratively confusing.
+100735,The Urban Jungle (2010),2001,Documentary,Japan,58,50,Passable entertainment for fans of the genre.
+100736,Cosmic Drift (2011),2003,Sci-Fi,UK,99,96,A modern classic that redefines its genre.
+100737,The Pearl Diver (2012),2000,Sci-Fi,Canada,57,55,A decent effort with some flashes of brilliance.
+100738,Sapphire Seas (2013),2011,Drama,France,38,48,Better left for late-night cable TV.
+100739,Ruby Red Skies (2014),2008,Thriller,France,77,69,"Enjoyable, though slightly predictable at times."
+100740,Shadow of the Colossus: The Beginning,2012,Sci-Fi,Germany,51,38,Passable entertainment for fans of the genre.
+100741,Beyond the Clouds 2,2018,Horror,Australia,78,87,"Enjoyable, though slightly predictable at times."
+100742,Return of Forgotten Memories,2010,Comedy,Australia,86,98,"Enjoyable, though slightly predictable at times."
+100743,The Legend of Under the Moonlight,2021,Thriller,South Korea,26,19,Visually dull and narratively confusing.
+100744,Escape from Ruby Red Skies,2007,Action,Canada,33,19,Better left for late-night cable TV.
+100745,Starship Avalon (2020),2023,Fantasy,India,39,44,Visually dull and narratively confusing.
+100746,Arctic Chill (2021),2008,Fantasy,UK,35,21,Visually dull and narratively confusing.
+100747,Golden Empire (2022),2008,Thriller,South Korea,66,52,Passable entertainment for fans of the genre.
+100748,Starship Avalon (2023),2017,Romance,Germany,99,100,Visually stunning and emotionally gripping.
+100749,Sapphire Seas (2024),2012,Fantasy,Canada,87,93,Solid performances and a compelling narrative.
+100750,Parallel Worlds: The Beginning,2017,Thriller,Germany,47,61,Better left for late-night cable TV.
+100751,The Great Gatsby V2 2,2022,Thriller,India,78,80,Solid performances and a compelling narrative.
+100752,Return of Forgotten Memories,2021,Animation,Canada,67,79,A decent effort with some flashes of brilliance.
+100753,The Legend of Deep Sea Secret,2023,Thriller,India,92,92,Visually stunning and emotionally gripping.
+100754,Escape from Iron Heart,2023,Animation,USA,42,44,Visually dull and narratively confusing.
+100755,Golden Empire (2005),2013,Horror,Germany,21,34,A disappointing mess that fails to find its footing.
+100756,Arctic Chill (2006),2016,Comedy,Spain,69,59,A decent effort with some flashes of brilliance.
+100757,The Diamond Heist (2007),2011,Fantasy,Canada,37,52,Visually dull and narratively confusing.
+100758,Silver Bullet (2008),2001,Romance,India,17,26,Visually dull and narratively confusing.
+100759,Ancient Riddles (2009),2002,Horror,Spain,76,77,A well-crafted experience that mostly lands.
+100760,Iron Heart: The Beginning,2000,Horror,USA,30,33,Visually dull and narratively confusing.
+100761,Midnight in Kyoto 2,2019,Romance,Spain,69,72,Ambitious but struggles with pacing.
+100762,Return of The Urban Jungle,2022,Fantasy,Japan,28,39,Better left for late-night cable TV.
+100763,The Legend of Deep Sea Secret,2001,Fantasy,Canada,28,38,A disappointing mess that fails to find its footing.
+100764,Escape from The Ghost Ship,2021,Thriller,Germany,99,97,Visually stunning and emotionally gripping.
+100765,Velocity Zero (2015),2005,Action,India,51,38,Ambitious but struggles with pacing.
+100766,Arctic Chill (2016),2014,Comedy,India,75,66,"Enjoyable, though slightly predictable at times."
+100767,Quantum Leap (2017),2002,Sci-Fi,Canada,44,37,Visually dull and narratively confusing.
+100768,Deep Sea Secret (2018),2004,Sci-Fi,Spain,63,64,A decent effort with some flashes of brilliance.
+100769,Bronze Age Chronicles (2019),2011,Fantasy,India,78,87,A well-crafted experience that mostly lands.
+100770,Starship Avalon: The Beginning,2015,Drama,USA,64,65,Passable entertainment for fans of the genre.
+100771,The Diamond Heist 2,2002,Documentary,Australia,66,69,Passable entertainment for fans of the genre.
+100772,Return of Sapphire Seas,2024,Action,UK,36,28,Visually dull and narratively confusing.
+100773,The Legend of Golden Empire,2018,Thriller,Australia,82,72,Solid performances and a compelling narrative.
+100774,Escape from The Emerald Gate,2003,Documentary,Germany,87,86,A well-crafted experience that mostly lands.
+100775,Starship Avalon (2000),2009,Romance,Canada,11,8,Visually dull and narratively confusing.
+100776,Midnight in Kyoto (2001),2022,Documentary,Spain,83,81,A well-crafted experience that mostly lands.
+100777,Deep Sea Secret (2002),2019,Thriller,India,21,34,A disappointing mess that fails to find its footing.
+100778,Velocity Zero (2003),2019,Drama,South Korea,70,72,A well-crafted experience that mostly lands.
+100779,Ruby Red Skies (2004),2015,Documentary,USA,68,60,Passable entertainment for fans of the genre.
+100780,The Digital Frontier: The Beginning,2007,Comedy,USA,72,73,A well-crafted experience that mostly lands.
+100781,Shadow of the Colossus 2,2007,Drama,India,48,55,Better left for late-night cable TV.
+100782,Return of Cosmic Drift,2016,Animation,Canada,76,61,A well-crafted experience that mostly lands.
+100783,The Legend of Platinum Soul,2019,Documentary,France,19,14,A disappointing mess that fails to find its footing.
+100784,Escape from Cyber City 2077,2008,Horror,France,90,86,A modern classic that redefines its genre.
+100785,Hidden Truths (2010),2013,Animation,UK,83,70,"Enjoyable, though slightly predictable at times."
+100786,Silver Bullet (2011),2015,Fantasy,UK,27,30,A disappointing mess that fails to find its footing.
+100787,Hidden Truths (2012),2009,Thriller,UK,18,10,Visually dull and narratively confusing.
+100788,Bronze Age Chronicles (2013),2016,Documentary,USA,15,27,A disappointing mess that fails to find its footing.
+100789,The Pearl Diver (2014),2024,Animation,USA,65,65,A decent effort with some flashes of brilliance.
+100790,Under the Moonlight: The Beginning,2017,Action,USA,97,84,A masterclass in filmmaking that resonates deeply.
+100791,Mountain Peak High 2,2005,Sci-Fi,France,11,17,A disappointing mess that fails to find its footing.
+100792,Return of The Digital Frontier,2001,Action,Spain,77,84,"Enjoyable, though slightly predictable at times."
+100793,The Legend of Iron Heart,2001,Comedy,USA,50,35,Ambitious but struggles with pacing.
+100794,Escape from Neon Pulse,2014,Drama,UK,71,78,"Enjoyable, though slightly predictable at times."
+100795,Modern Warfare: The Silent Movie (2020),2015,Sci-Fi,Spain,85,84,A well-crafted experience that mostly lands.
+100796,The Diamond Heist (2021),2024,Documentary,Canada,59,46,A decent effort with some flashes of brilliance.
+100797,Ruby Red Skies (2022),2012,Comedy,Canada,11,6,A disappointing mess that fails to find its footing.
+100798,Modern Warfare: The Silent Movie (2023),2022,Horror,Canada,41,34,Better left for late-night cable TV.
+100799,Mountain Peak High (2024),2015,Fantasy,South Korea,51,61,Passable entertainment for fans of the genre.
+100800,Midnight in Kyoto: The Beginning,2012,Documentary,USA,69,69,A decent effort with some flashes of brilliance.
+100801,Under the Moonlight 2,2020,Fantasy,Spain,26,27,Visually dull and narratively confusing.
+100802,Return of Cosmic Drift,2020,Romance,Canada,78,82,"Enjoyable, though slightly predictable at times."
+100803,The Legend of Shadow of the Colossus,2000,Action,Japan,16,23,Visually dull and narratively confusing.
+100804,Escape from Silver Bullet,2015,Sci-Fi,Spain,32,44,Visually dull and narratively confusing.
+100805,Beyond the Clouds (2005),2023,Horror,Canada,62,57,A decent effort with some flashes of brilliance.
+100806,Ancient Riddles (2006),2013,Action,UK,81,73,"Enjoyable, though slightly predictable at times."
+100807,Beyond the Clouds (2007),2007,Documentary,UK,97,100,A modern classic that redefines its genre.
+100808,The Great Gatsby V2 (2008),2004,Comedy,Germany,91,83,Visually stunning and emotionally gripping.
+100809,The Digital Frontier (2009),2021,Documentary,UK,42,43,Better left for late-night cable TV.
+100810,Velocity Zero: The Beginning,2017,Romance,Japan,33,24,Visually dull and narratively confusing.
+100811,Golden Empire 2,2020,Horror,Australia,75,71,Solid performances and a compelling narrative.
+100812,Return of Hidden Truths,2014,Horror,South Korea,40,47,A disappointing mess that fails to find its footing.
+100813,The Legend of Golden Empire,2022,Thriller,Japan,42,40,Better left for late-night cable TV.
+100814,Escape from The Pearl Diver,2020,Romance,France,37,49,Better left for late-night cable TV.
+100815,Parallel Worlds (2015),2011,Romance,Canada,55,68,Ambitious but struggles with pacing.
+100816,The Pearl Diver (2016),2023,Sci-Fi,Japan,66,65,Passable entertainment for fans of the genre.
+100817,Cyber City 2077 (2017),2016,Animation,Japan,81,67,A well-crafted experience that mostly lands.
+100818,Cosmic Drift (2018),2001,Documentary,India,88,86,Solid performances and a compelling narrative.
+100819,The Ghost Ship (2019),2018,Horror,South Korea,37,37,Better left for late-night cable TV.
+100820,Island Paradise Lost: The Beginning,2002,Drama,UK,93,100,A masterclass in filmmaking that resonates deeply.
+100821,The Emerald Gate 2,2003,Fantasy,South Korea,63,77,Ambitious but struggles with pacing.
+100822,Return of Silicon Valley Dreams,2008,Romance,UK,46,37,Visually dull and narratively confusing.
+100823,The Legend of Quantum Leap,2003,Action,South Korea,80,82,A well-crafted experience that mostly lands.
+100824,Escape from Desert Rose,2020,Thriller,UK,60,70,Passable entertainment for fans of the genre.
+100825,The Ghost Ship (2000),2015,Fantasy,France,46,40,Visually dull and narratively confusing.
+100826,Quantum Leap (2001),2012,Fantasy,UK,69,77,Passable entertainment for fans of the genre.
+100827,Parallel Worlds (2002),2021,Fantasy,UK,45,31,Visually dull and narratively confusing.
+100828,Neon Pulse (2003),2019,Action,Japan,83,87,"Enjoyable, though slightly predictable at times."
+100829,Velocity Zero (2004),2010,Horror,Canada,67,60,Ambitious but struggles with pacing.
+100830,Midnight in Kyoto: The Beginning,2021,Thriller,Japan,78,89,A well-crafted experience that mostly lands.
+100831,Ancient Riddles 2,2020,Action,Canada,33,33,A disappointing mess that fails to find its footing.
+100832,Return of Neon Pulse,2023,Action,Germany,43,29,Better left for late-night cable TV.
+100833,The Legend of Hidden Truths,2014,Comedy,UK,32,47,Better left for late-night cable TV.
+100834,Escape from The Emerald Gate,2022,Romance,Australia,51,41,Passable entertainment for fans of the genre.
+100835,Mountain Peak High (2010),2019,Romance,India,80,85,A well-crafted experience that mostly lands.
+100836,Parallel Worlds (2011),2023,Sci-Fi,USA,64,55,A decent effort with some flashes of brilliance.
+100837,Beyond the Clouds (2012),2007,Thriller,South Korea,37,22,Visually dull and narratively confusing.
+100838,Ancient Riddles (2013),2023,Fantasy,India,68,55,Ambitious but struggles with pacing.
+100839,The Pearl Diver (2014),2013,Comedy,Japan,95,87,A modern classic that redefines its genre.
+100840,The Diamond Heist: The Beginning,2004,Fantasy,Germany,18,28,A disappointing mess that fails to find its footing.
+100841,Arctic Chill 2,2009,Comedy,France,18,29,Better left for late-night cable TV.
+100842,Return of Mountain Peak High,2003,Action,South Korea,17,26,A disappointing mess that fails to find its footing.
+100843,The Legend of Sapphire Seas,2020,Romance,Canada,59,50,A decent effort with some flashes of brilliance.
+100844,Escape from Island Paradise Lost,2021,Animation,Germany,43,28,Visually dull and narratively confusing.
+100845,The Ghost Ship (2020),2020,Horror,India,28,29,Better left for late-night cable TV.
+100846,The Diamond Heist (2021),2007,Sci-Fi,South Korea,76,87,"Enjoyable, though slightly predictable at times."
+100847,The Diamond Heist (2022),2001,Fantasy,Japan,57,65,Ambitious but struggles with pacing.
+100848,Sapphire Seas (2023),2013,Romance,Canada,90,96,A modern classic that redefines its genre.
+100849,Bronze Age Chronicles (2024),2023,Fantasy,Japan,72,80,"Enjoyable, though slightly predictable at times."
+100850,Last Train to Paris: The Beginning,2010,Drama,Japan,48,55,A disappointing mess that fails to find its footing.
+100851,Midnight in Kyoto 2,2015,Horror,Canada,46,38,Better left for late-night cable TV.
+100852,Return of Midnight in Kyoto,2008,Animation,UK,16,15,Better left for late-night cable TV.
+100853,The Legend of Parallel Worlds,2022,Comedy,India,59,70,Ambitious but struggles with pacing.
+100854,Escape from Last Train to Paris,2014,Animation,Australia,75,90,"Enjoyable, though slightly predictable at times."
+100855,Silicon Valley Dreams (2005),2019,Drama,Canada,98,91,A modern classic that redefines its genre.
+100856,Sapphire Seas (2006),2001,Animation,South Korea,38,51,Better left for late-night cable TV.
+100857,The Last Samurai Rising (2007),2001,Sci-Fi,Australia,68,60,Passable entertainment for fans of the genre.
+100858,Desert Rose (2008),2005,Drama,Spain,51,44,Ambitious but struggles with pacing.
+100859,Midnight in Kyoto (2009),2024,Action,Germany,12,13,Better left for late-night cable TV.
+100860,Diamond Dust: The Beginning,2011,Thriller,UK,25,15,Visually dull and narratively confusing.
+100861,Iron Heart 2,2011,Documentary,India,37,31,Better left for late-night cable TV.
+100862,Return of Eternal Sands,2001,Comedy,India,63,54,Ambitious but struggles with pacing.
+100863,The Legend of Last Train to Paris,2016,Fantasy,India,59,74,Ambitious but struggles with pacing.
+100864,Escape from Forgotten Memories,2008,Action,UK,17,10,A disappointing mess that fails to find its footing.
+100865,Beyond the Clouds (2015),2003,Fantasy,Spain,91,80,A modern classic that redefines its genre.
+100866,Bronze Age Chronicles (2016),2007,Thriller,Canada,95,87,Visually stunning and emotionally gripping.
+100867,The Urban Jungle (2017),2015,Romance,South Korea,82,85,A well-crafted experience that mostly lands.
+100868,Shadow of the Colossus (2018),2019,Documentary,Australia,80,92,A well-crafted experience that mostly lands.
+100869,Deep Sea Secret (2019),2015,Romance,Canada,67,77,A decent effort with some flashes of brilliance.
+100870,Ancient Riddles: The Beginning,2021,Sci-Fi,France,82,74,A well-crafted experience that mostly lands.
+100871,Neon Pulse 2,2021,Action,UK,51,41,Passable entertainment for fans of the genre.
+100872,Return of Deep Sea Secret,2008,Action,India,90,80,A modern classic that redefines its genre.
+100873,The Legend of Platinum Soul,2023,Thriller,Japan,34,36,A disappointing mess that fails to find its footing.
+100874,Escape from Last Train to Paris,2020,Documentary,UK,68,81,Ambitious but struggles with pacing.
+100875,Golden Empire (2000),2024,Fantasy,USA,11,14,Visually dull and narratively confusing.
+100876,Diamond Dust (2001),2003,Action,South Korea,88,76,A well-crafted experience that mostly lands.
+100877,Neon Pulse (2002),2021,Horror,Spain,66,74,Ambitious but struggles with pacing.
+100878,The Pearl Diver (2003),2020,Action,France,76,79,Solid performances and a compelling narrative.
+100879,Starship Avalon (2004),2021,Animation,South Korea,52,65,Passable entertainment for fans of the genre.
+100880,Quantum Leap: The Beginning,2004,Action,Japan,39,29,Better left for late-night cable TV.
+100881,The Digital Frontier 2,2011,Documentary,Germany,73,66,Solid performances and a compelling narrative.
+100882,Return of Silver Bullet,2018,Drama,Germany,66,72,A decent effort with some flashes of brilliance.
+100883,The Legend of Ruby Red Skies,2023,Comedy,Germany,33,31,Visually dull and narratively confusing.
+100884,Escape from Beyond the Clouds,2022,Drama,Canada,92,80,Visually stunning and emotionally gripping.
+100885,Whispers in the Wind (2010),2021,Fantasy,Spain,62,50,Ambitious but struggles with pacing.
+100886,Deep Sea Secret (2011),2001,Documentary,India,25,23,A disappointing mess that fails to find its footing.
+100887,Golden Empire (2012),2002,Comedy,Germany,55,55,Passable entertainment for fans of the genre.
+100888,Ancient Riddles (2013),2022,Documentary,Japan,39,26,A disappointing mess that fails to find its footing.
+100889,Ancient Riddles (2014),2003,Drama,Australia,27,39,Visually dull and narratively confusing.
+100890,Forgotten Memories: The Beginning,2016,Fantasy,USA,65,54,Passable entertainment for fans of the genre.
+100891,Iron Heart 2,2000,Thriller,India,10,7,A disappointing mess that fails to find its footing.
+100892,Return of Quantum Leap,2020,Sci-Fi,USA,80,85,Solid performances and a compelling narrative.
+100893,The Legend of Iron Heart,2002,Action,Canada,41,39,Visually dull and narratively confusing.
+100894,Escape from Forgotten Memories,2016,Action,Australia,38,31,A disappointing mess that fails to find its footing.
+100895,Modern Warfare: The Silent Movie (2020),2022,Romance,Germany,98,84,Visually stunning and emotionally gripping.
+100896,Mountain Peak High (2021),2024,Fantasy,France,37,52,A disappointing mess that fails to find its footing.
+100897,The Emerald Gate (2022),2023,Thriller,Germany,96,100,A modern classic that redefines its genre.
+100898,Cyber City 2077 (2023),2024,Animation,Spain,78,89,"Enjoyable, though slightly predictable at times."
+100899,Platinum Soul (2024),2005,Animation,Australia,95,93,Visually stunning and emotionally gripping.
+100900,Last Train to Paris: The Beginning,2006,Comedy,France,80,74,"Enjoyable, though slightly predictable at times."
+100901,Shadow of the Colossus 2,2016,Comedy,UK,48,41,Better left for late-night cable TV.
+100902,Return of Bronze Age Chronicles,2015,Thriller,France,24,15,A disappointing mess that fails to find its footing.
+100903,The Legend of The Digital Frontier,2020,Romance,USA,49,52,Visually dull and narratively confusing.
+100904,Escape from The Emerald Gate,2023,Horror,Spain,87,100,A well-crafted experience that mostly lands.
+100905,Platinum Soul (2005),2014,Romance,Australia,79,71,Solid performances and a compelling narrative.
+100906,Neon Pulse (2006),2014,Romance,UK,19,6,Visually dull and narratively confusing.
+100907,The Emerald Gate (2007),2019,Sci-Fi,France,48,51,Visually dull and narratively confusing.
+100908,The Emerald Gate (2008),2003,Romance,Spain,78,66,"Enjoyable, though slightly predictable at times."
+100909,Ruby Red Skies (2009),2012,Drama,Germany,45,51,A disappointing mess that fails to find its footing.
+100910,Beyond the Clouds: The Beginning,2021,Romance,South Korea,65,51,Ambitious but struggles with pacing.
+100911,Parallel Worlds 2,2000,Documentary,UK,36,39,Visually dull and narratively confusing.
+100912,Return of Parallel Worlds,2014,Comedy,France,65,64,Ambitious but struggles with pacing.
+100913,The Legend of Arctic Chill,2022,Fantasy,USA,20,6,Visually dull and narratively confusing.
+100914,Escape from Parallel Worlds,2010,Romance,USA,10,7,Better left for late-night cable TV.
+100915,The Diamond Heist (2015),2006,Fantasy,Canada,68,66,A decent effort with some flashes of brilliance.
+100916,Diamond Dust (2016),2001,Documentary,India,94,88,Visually stunning and emotionally gripping.
+100917,Under the Moonlight (2017),2012,Comedy,Australia,51,43,Ambitious but struggles with pacing.
+100918,Neon Pulse (2018),2003,Animation,South Korea,86,71,Solid performances and a compelling narrative.
+100919,Cosmic Drift (2019),2016,Romance,UK,35,21,A disappointing mess that fails to find its footing.
+100920,Ruby Red Skies: The Beginning,2011,Thriller,Germany,34,19,A disappointing mess that fails to find its footing.
+100921,The Urban Jungle 2,2019,Comedy,Canada,98,90,A masterclass in filmmaking that resonates deeply.
+100922,Return of The Digital Frontier,2022,Comedy,Canada,56,48,Ambitious but struggles with pacing.
+100923,The Legend of Starship Avalon,2017,Drama,Japan,50,41,Passable entertainment for fans of the genre.
+100924,Escape from Midnight in Kyoto,2011,Drama,Germany,11,6,Visually dull and narratively confusing.
+100925,Deep Sea Secret (2000),2010,Comedy,Germany,58,64,Passable entertainment for fans of the genre.
+100926,The Emerald Gate (2001),2011,Drama,Japan,76,73,Solid performances and a compelling narrative.
+100927,Last Train to Paris (2002),2021,Romance,UK,84,87,Solid performances and a compelling narrative.
+100928,Silicon Valley Dreams (2003),2003,Sci-Fi,Japan,37,51,Better left for late-night cable TV.
+100929,Platinum Soul (2004),2016,Animation,South Korea,97,100,A modern classic that redefines its genre.
+100930,The Ghost Ship: The Beginning,2004,Documentary,India,70,66,"Enjoyable, though slightly predictable at times."
+100931,Last Train to Paris 2,2014,Romance,France,74,87,"Enjoyable, though slightly predictable at times."
+100932,Return of Last Train to Paris,2016,Animation,India,25,11,Visually dull and narratively confusing.
+100933,The Legend of The Pearl Diver,2007,Romance,France,42,40,A disappointing mess that fails to find its footing.
+100934,Escape from Arctic Chill,2019,Horror,UK,97,100,A masterclass in filmmaking that resonates deeply.
+100935,Forgotten Memories (2010),2022,Romance,UK,86,88,A well-crafted experience that mostly lands.
+100936,The Urban Jungle (2011),2023,Action,UK,47,43,A disappointing mess that fails to find its footing.
+100937,Cyber City 2077 (2012),2012,Animation,Spain,54,46,Ambitious but struggles with pacing.
+100938,Cyber City 2077 (2013),2007,Animation,Canada,23,16,Visually dull and narratively confusing.
+100939,Arctic Chill (2014),2022,Romance,Canada,48,50,Better left for late-night cable TV.
+100940,Last Train to Paris: The Beginning,2018,Animation,Australia,69,79,Passable entertainment for fans of the genre.
+100941,Hidden Truths 2,2005,Horror,UK,100,97,A modern classic that redefines its genre.
+100942,Return of Bronze Age Chronicles,2016,Sci-Fi,France,49,64,Better left for late-night cable TV.
+100943,The Legend of Beyond the Clouds,2009,Animation,USA,26,13,Visually dull and narratively confusing.
+100944,Escape from Midnight in Kyoto,2022,Thriller,Japan,93,100,A masterclass in filmmaking that resonates deeply.
+100945,Silicon Valley Dreams (2020),2017,Sci-Fi,South Korea,35,36,A disappointing mess that fails to find its footing.
+100946,Hidden Truths (2021),2012,Horror,India,47,55,A disappointing mess that fails to find its footing.
+100947,Shadow of the Colossus (2022),2012,Thriller,Australia,90,98,Visually stunning and emotionally gripping.
+100948,Under the Moonlight (2023),2014,Documentary,Spain,31,23,A disappointing mess that fails to find its footing.
+100949,Island Paradise Lost (2024),2003,Horror,Australia,96,98,Visually stunning and emotionally gripping.
+100950,Hidden Truths: The Beginning,2002,Comedy,France,85,83,"Enjoyable, though slightly predictable at times."
+100951,Ancient Riddles 2,2004,Animation,Germany,80,75,Solid performances and a compelling narrative.
+100952,Return of Cyber City 2077,2000,Drama,Spain,36,43,Visually dull and narratively confusing.
+100953,The Legend of Sapphire Seas,2018,Romance,Spain,100,92,Visually stunning and emotionally gripping.
+100954,Escape from Arctic Chill,2021,Thriller,Germany,10,9,Visually dull and narratively confusing.
+100955,Parallel Worlds (2005),2005,Documentary,Japan,68,70,Ambitious but struggles with pacing.
+100956,Midnight in Kyoto (2006),2022,Action,UK,94,79,A modern classic that redefines its genre.
+100957,Parallel Worlds (2007),2008,Documentary,Canada,96,87,A modern classic that redefines its genre.
+100958,Modern Warfare: The Silent Movie (2008),2019,Romance,Japan,71,59,"Enjoyable, though slightly predictable at times."
+100959,Island Paradise Lost (2009),2017,Horror,Japan,11,5,Visually dull and narratively confusing.
+100960,Desert Rose: The Beginning,2000,Fantasy,Australia,14,5,Visually dull and narratively confusing.
+100961,Eternal Sands 2,2011,Comedy,Canada,84,76,"Enjoyable, though slightly predictable at times."
+100962,Return of Whispers in the Wind,2011,Horror,Australia,53,54,Ambitious but struggles with pacing.
+100963,The Legend of Golden Empire,2022,Documentary,Japan,72,73,"Enjoyable, though slightly predictable at times."
+100964,Escape from Velocity Zero,2000,Fantasy,UK,16,5,Visually dull and narratively confusing.
+100965,Forgotten Memories (2015),2009,Animation,UK,24,11,Visually dull and narratively confusing.
+100966,Eternal Sands (2016),2013,Action,South Korea,95,100,A modern classic that redefines its genre.
+100967,Cosmic Drift (2017),2003,Horror,Australia,50,51,Ambitious but struggles with pacing.
+100968,Cosmic Drift (2018),2024,Thriller,France,40,33,Better left for late-night cable TV.
+100969,Velocity Zero (2019),2003,Horror,France,35,40,Visually dull and narratively confusing.
+100970,Cosmic Drift: The Beginning,2004,Romance,Australia,42,55,A disappointing mess that fails to find its footing.
+100971,Beyond the Clouds 2,2005,Sci-Fi,India,48,36,Visually dull and narratively confusing.
+100972,Return of Iron Heart,2002,Thriller,Australia,54,63,A decent effort with some flashes of brilliance.
+100973,The Legend of Island Paradise Lost,2005,Romance,India,73,83,"Enjoyable, though slightly predictable at times."
+100974,Escape from The Digital Frontier,2006,Thriller,Australia,95,100,A masterclass in filmmaking that resonates deeply.
+100975,Last Train to Paris (2000),2010,Sci-Fi,South Korea,93,99,Visually stunning and emotionally gripping.
+100976,The Ghost Ship (2001),2017,Thriller,Canada,11,12,A disappointing mess that fails to find its footing.
+100977,Arctic Chill (2002),2015,Documentary,Germany,47,38,A disappointing mess that fails to find its footing.
+100978,Midnight in Kyoto (2003),2015,Sci-Fi,UK,54,60,Ambitious but struggles with pacing.
+100979,Beyond the Clouds (2004),2015,Comedy,Australia,76,63,"Enjoyable, though slightly predictable at times."
+100980,Mountain Peak High: The Beginning,2017,Romance,South Korea,46,54,Visually dull and narratively confusing.
+100981,Ancient Riddles 2,2008,Horror,Germany,71,65,A well-crafted experience that mostly lands.
+100982,Return of Forgotten Memories,2013,Animation,Spain,67,53,Ambitious but struggles with pacing.
+100983,The Legend of Beyond the Clouds,2009,Sci-Fi,Spain,32,24,Better left for late-night cable TV.
+100984,Escape from Neon Pulse,2018,Action,Japan,46,41,Visually dull and narratively confusing.
+100985,Quantum Leap (2010),2004,Fantasy,India,97,85,Visually stunning and emotionally gripping.
+100986,Neon Pulse (2011),2010,Action,Germany,24,12,A disappointing mess that fails to find its footing.
+100987,Parallel Worlds (2012),2023,Romance,Spain,11,18,Better left for late-night cable TV.
+100988,Cyber City 2077 (2013),2000,Fantasy,Australia,13,15,Visually dull and narratively confusing.
+100989,Beyond the Clouds (2014),2020,Sci-Fi,India,90,75,Visually stunning and emotionally gripping.
+100990,Ancient Riddles: The Beginning,2015,Sci-Fi,UK,62,69,Passable entertainment for fans of the genre.
+100991,The Digital Frontier 2,2005,Sci-Fi,France,49,61,Better left for late-night cable TV.
+100992,Return of Arctic Chill,2024,Action,USA,73,78,"Enjoyable, though slightly predictable at times."
+100993,The Legend of The Emerald Gate,2013,Comedy,USA,95,93,A masterclass in filmmaking that resonates deeply.
+100994,Escape from Starship Avalon,2007,Documentary,USA,85,81,"Enjoyable, though slightly predictable at times."
+100995,Sapphire Seas (2020),2017,Fantasy,South Korea,12,27,Better left for late-night cable TV.
+100996,Platinum Soul (2021),2021,Sci-Fi,UK,45,43,Better left for late-night cable TV.
+100997,Under the Moonlight (2022),2016,Romance,USA,91,79,A modern classic that redefines its genre.
+100998,The Last Samurai Rising (2023),2010,Fantasy,France,27,22,A disappointing mess that fails to find its footing.
+100999,Golden Empire (2024),2005,Fantasy,South Korea,100,94,Visually stunning and emotionally gripping.
+101000,Shadow of the Colossus: The Beginning,2024,Romance,Australia,86,88,"Enjoyable, though slightly predictable at times."
+101001,Platinum Soul 2,2019,Comedy,India,70,83,A well-crafted experience that mostly lands.
+101002,Return of Modern Warfare: The Silent Movie,2017,Sci-Fi,Canada,74,75,A well-crafted experience that mostly lands.
+101003,The Legend of Modern Warfare: The Silent Movie,2001,Action,Spain,93,97,A modern classic that redefines its genre.
+101004,Escape from Island Paradise Lost,2008,Comedy,France,63,57,Passable entertainment for fans of the genre.
+101005,Forgotten Memories (2005),2003,Comedy,Australia,53,61,Ambitious but struggles with pacing.
+101006,Desert Rose (2006),2001,Action,France,19,6,Better left for late-night cable TV.
+101007,The Digital Frontier (2007),2007,Drama,Japan,10,9,A disappointing mess that fails to find its footing.
+101008,The Digital Frontier (2008),2024,Horror,UK,34,19,A disappointing mess that fails to find its footing.
+101009,Ancient Riddles (2009),2007,Drama,Spain,68,69,Passable entertainment for fans of the genre.
+101010,Last Train to Paris: The Beginning,2003,Thriller,USA,56,57,Passable entertainment for fans of the genre.
+101011,The Great Gatsby V2 2,2021,Comedy,Germany,42,49,A disappointing mess that fails to find its footing.
+101012,Return of Velocity Zero,2007,Thriller,Germany,64,77,Ambitious but struggles with pacing.
+101013,The Legend of The Digital Frontier,2000,Thriller,Spain,91,100,Visually stunning and emotionally gripping.
+101014,Escape from Starship Avalon,2011,Animation,Spain,39,42,Visually dull and narratively confusing.
+101015,The Last Samurai Rising (2015),2009,Horror,Spain,71,59,Solid performances and a compelling narrative.
+101016,Cyber City 2077 (2016),2012,Romance,USA,35,30,A disappointing mess that fails to find its footing.
+101017,The Digital Frontier (2017),2019,Fantasy,Spain,34,40,Better left for late-night cable TV.
+101018,Sapphire Seas (2018),2012,Sci-Fi,South Korea,79,72,"Enjoyable, though slightly predictable at times."
+101019,Last Train to Paris (2019),2022,Comedy,Australia,58,66,A decent effort with some flashes of brilliance.
+101020,The Digital Frontier: The Beginning,2002,Sci-Fi,Germany,65,64,Passable entertainment for fans of the genre.
+101021,Starship Avalon 2,2022,Comedy,Spain,46,38,Better left for late-night cable TV.
+101022,Return of Cyber City 2077,2006,Fantasy,Germany,61,52,Ambitious but struggles with pacing.
+101023,The Legend of Iron Heart,2012,Thriller,Germany,21,9,Visually dull and narratively confusing.
+101024,Escape from Ancient Riddles,2006,Documentary,USA,37,32,Better left for late-night cable TV.
+101025,Shadow of the Colossus (2000),2024,Sci-Fi,UK,40,29,Better left for late-night cable TV.
+101026,Starship Avalon (2001),2000,Documentary,France,39,49,Visually dull and narratively confusing.
+101027,Forgotten Memories (2002),2018,Romance,Australia,30,45,Better left for late-night cable TV.
+101028,The Great Gatsby V2 (2003),2014,Animation,USA,15,27,Visually dull and narratively confusing.
+101029,Bronze Age Chronicles (2004),2011,Thriller,Germany,98,100,Visually stunning and emotionally gripping.
+101030,Starship Avalon: The Beginning,2003,Sci-Fi,Spain,35,50,A disappointing mess that fails to find its footing.
+101031,Parallel Worlds 2,2019,Animation,Japan,40,50,Better left for late-night cable TV.
+101032,Return of The Great Gatsby V2,2001,Romance,India,11,5,Better left for late-night cable TV.
+101033,The Legend of Bronze Age Chronicles,2000,Sci-Fi,UK,15,5,A disappointing mess that fails to find its footing.
+101034,Escape from The Last Samurai Rising,2009,Thriller,France,20,19,A disappointing mess that fails to find its footing.
+101035,Velocity Zero (2010),2019,Animation,South Korea,85,73,A well-crafted experience that mostly lands.
+101036,The Pearl Diver (2011),2023,Documentary,Germany,40,38,Better left for late-night cable TV.
+101037,The Great Gatsby V2 (2012),2005,Comedy,India,41,37,A disappointing mess that fails to find its footing.
+101038,Silicon Valley Dreams (2013),2016,Fantasy,Canada,56,49,A decent effort with some flashes of brilliance.
+101039,Silicon Valley Dreams (2014),2003,Fantasy,Australia,96,100,A modern classic that redefines its genre.
+101040,Cosmic Drift: The Beginning,2020,Action,USA,64,66,Passable entertainment for fans of the genre.
+101041,Midnight in Kyoto 2,2013,Horror,USA,76,75,Solid performances and a compelling narrative.
+101042,Return of Shadow of the Colossus,2004,Horror,Japan,67,60,Ambitious but struggles with pacing.
+101043,The Legend of Hidden Truths,2017,Documentary,Australia,73,58,Solid performances and a compelling narrative.
+101044,Escape from Cyber City 2077,2022,Comedy,South Korea,57,44,Passable entertainment for fans of the genre.
+101045,Arctic Chill (2020),2001,Horror,Japan,46,49,Visually dull and narratively confusing.
+101046,Mountain Peak High (2021),2020,Comedy,Australia,32,29,Visually dull and narratively confusing.
+101047,Velocity Zero (2022),2013,Comedy,Australia,45,36,Visually dull and narratively confusing.
+101048,Mountain Peak High (2023),2014,Romance,USA,23,35,Better left for late-night cable TV.
+101049,Under the Moonlight (2024),2021,Romance,Canada,88,100,"Enjoyable, though slightly predictable at times."
+101050,Iron Heart: The Beginning,2008,Animation,India,17,20,Better left for late-night cable TV.
+101051,Island Paradise Lost 2,2022,Sci-Fi,Canada,34,28,Better left for late-night cable TV.
+101052,Return of Golden Empire,2001,Sci-Fi,USA,67,78,Passable entertainment for fans of the genre.
+101053,The Legend of Cosmic Drift,2005,Sci-Fi,Germany,71,77,Solid performances and a compelling narrative.
+101054,Escape from Silver Bullet,2016,Fantasy,Canada,54,64,Passable entertainment for fans of the genre.
+101055,The Diamond Heist (2005),2007,Sci-Fi,France,49,39,Visually dull and narratively confusing.
+101056,Ruby Red Skies (2006),2008,Drama,UK,62,64,A decent effort with some flashes of brilliance.
+101057,Arctic Chill (2007),2019,Animation,South Korea,38,46,Visually dull and narratively confusing.
+101058,Eternal Sands (2008),2021,Thriller,UK,15,8,Visually dull and narratively confusing.
+101059,The Ghost Ship (2009),2000,Sci-Fi,South Korea,79,91,Solid performances and a compelling narrative.
+101060,The Emerald Gate: The Beginning,2004,Comedy,Japan,37,52,Better left for late-night cable TV.
+101061,Ruby Red Skies 2,2010,Animation,Germany,84,98,A well-crafted experience that mostly lands.
+101062,Return of The Last Samurai Rising,2003,Sci-Fi,Australia,59,74,Passable entertainment for fans of the genre.
+101063,The Legend of Sapphire Seas,2023,Documentary,Spain,100,100,Visually stunning and emotionally gripping.
+101064,Escape from Neon Pulse,2020,Horror,Spain,87,98,A well-crafted experience that mostly lands.
+101065,Arctic Chill (2015),2022,Sci-Fi,India,22,16,Better left for late-night cable TV.
+101066,Under the Moonlight (2016),2021,Documentary,Australia,91,98,Visually stunning and emotionally gripping.
+101067,Silicon Valley Dreams (2017),2017,Romance,Japan,75,67,"Enjoyable, though slightly predictable at times."
+101068,Midnight in Kyoto (2018),2002,Romance,Germany,86,79,"Enjoyable, though slightly predictable at times."
+101069,Silver Bullet (2019),2008,Animation,Japan,39,43,Visually dull and narratively confusing.
+101070,Forgotten Memories: The Beginning,2004,Horror,Canada,41,43,A disappointing mess that fails to find its footing.
+101071,Golden Empire 2,2019,Drama,Japan,23,30,Visually dull and narratively confusing.
+101072,Return of Bronze Age Chronicles,2015,Drama,Australia,30,44,Visually dull and narratively confusing.
+101073,The Legend of Forgotten Memories,2013,Fantasy,Spain,15,13,Better left for late-night cable TV.
+101074,Escape from Bronze Age Chronicles,2013,Action,Japan,66,69,Passable entertainment for fans of the genre.
+101075,Ruby Red Skies (2000),2012,Horror,Canada,63,70,A decent effort with some flashes of brilliance.
+101076,Starship Avalon (2001),2003,Horror,South Korea,89,90,Solid performances and a compelling narrative.
+101077,The Great Gatsby V2 (2002),2012,Animation,UK,96,100,A modern classic that redefines its genre.
+101078,Bronze Age Chronicles (2003),2015,Comedy,UK,80,89,A well-crafted experience that mostly lands.
+101079,Diamond Dust (2004),2018,Comedy,France,64,74,Ambitious but struggles with pacing.
+101080,Forgotten Memories: The Beginning,2019,Sci-Fi,Germany,60,52,A decent effort with some flashes of brilliance.
+101081,Desert Rose 2,2010,Animation,Canada,73,59,Solid performances and a compelling narrative.
+101082,Return of Whispers in the Wind,2021,Drama,USA,18,32,Better left for late-night cable TV.
+101083,The Legend of Bronze Age Chronicles,2011,Fantasy,Germany,62,55,A decent effort with some flashes of brilliance.
+101084,Escape from Ancient Riddles,2019,Animation,India,22,34,Better left for late-night cable TV.
+101085,Starship Avalon (2010),2017,Romance,USA,97,100,Visually stunning and emotionally gripping.
+101086,The Digital Frontier (2011),2005,Sci-Fi,India,66,64,A decent effort with some flashes of brilliance.
+101087,Ruby Red Skies (2012),2007,Horror,Australia,29,18,A disappointing mess that fails to find its footing.
+101088,Desert Rose (2013),2020,Romance,Germany,83,89,A well-crafted experience that mostly lands.
+101089,Ruby Red Skies (2014),2023,Documentary,Australia,46,33,Visually dull and narratively confusing.
+101090,Last Train to Paris: The Beginning,2000,Romance,France,24,32,A disappointing mess that fails to find its footing.
+101091,The Pearl Diver 2,2005,Comedy,France,32,18,A disappointing mess that fails to find its footing.
+101092,Return of Platinum Soul,2016,Romance,France,30,39,A disappointing mess that fails to find its footing.
+101093,The Legend of The Pearl Diver,2000,Fantasy,Spain,76,80,A well-crafted experience that mostly lands.
+101094,Escape from Cyber City 2077,2007,Romance,Australia,43,57,A disappointing mess that fails to find its footing.
+101095,Modern Warfare: The Silent Movie (2020),2017,Comedy,Spain,15,18,A disappointing mess that fails to find its footing.
+101096,The Pearl Diver (2021),2019,Horror,France,51,66,Passable entertainment for fans of the genre.
+101097,Ancient Riddles (2022),2011,Drama,Spain,84,85,Solid performances and a compelling narrative.
+101098,Parallel Worlds (2023),2009,Thriller,India,71,76,"Enjoyable, though slightly predictable at times."
+101099,Quantum Leap (2024),2006,Fantasy,India,20,23,Better left for late-night cable TV.
+101100,Platinum Soul: The Beginning,2022,Action,Spain,62,70,Passable entertainment for fans of the genre.
+101101,Midnight in Kyoto 2,2002,Horror,USA,43,28,A disappointing mess that fails to find its footing.
+101102,Return of The Last Samurai Rising,2024,Animation,South Korea,64,54,Passable entertainment for fans of the genre.
+101103,The Legend of Cyber City 2077,2000,Action,Germany,80,87,Solid performances and a compelling narrative.
+101104,Escape from Sapphire Seas,2019,Romance,India,90,97,Visually stunning and emotionally gripping.
+101105,Arctic Chill (2005),2000,Thriller,USA,29,27,Visually dull and narratively confusing.
+101106,The Ghost Ship (2006),2023,Thriller,UK,90,80,A modern classic that redefines its genre.
+101107,The Last Samurai Rising (2007),2003,Romance,Australia,43,32,Better left for late-night cable TV.
+101108,Quantum Leap (2008),2000,Fantasy,USA,49,40,Better left for late-night cable TV.
+101109,Eternal Sands (2009),2002,Romance,India,52,37,Ambitious but struggles with pacing.
+101110,Arctic Chill: The Beginning,2015,Documentary,France,61,55,A decent effort with some flashes of brilliance.
+101111,The Last Samurai Rising 2,2019,Romance,Canada,90,81,A modern classic that redefines its genre.
+101112,Return of Under the Moonlight,2009,Thriller,USA,36,24,Better left for late-night cable TV.
+101113,The Legend of Hidden Truths,2002,Documentary,USA,41,36,A disappointing mess that fails to find its footing.
+101114,Escape from Silicon Valley Dreams,2007,Romance,Australia,91,88,A modern classic that redefines its genre.
+101115,Forgotten Memories (2015),2019,Drama,Japan,27,23,Better left for late-night cable TV.
+101116,Eternal Sands (2016),2015,Animation,Australia,54,54,A decent effort with some flashes of brilliance.
+101117,Ancient Riddles (2017),2018,Fantasy,Canada,53,59,A decent effort with some flashes of brilliance.
+101118,The Great Gatsby V2 (2018),2008,Sci-Fi,India,84,95,Solid performances and a compelling narrative.
+101119,Starship Avalon (2019),2023,Sci-Fi,UK,62,47,Passable entertainment for fans of the genre.
+101120,Beyond the Clouds: The Beginning,2012,Thriller,Australia,50,46,Passable entertainment for fans of the genre.
+101121,Mountain Peak High 2,2002,Romance,USA,16,20,Better left for late-night cable TV.
+101122,Return of Beyond the Clouds,2007,Comedy,Spain,87,90,"Enjoyable, though slightly predictable at times."
+101123,The Legend of The Diamond Heist,2016,Comedy,South Korea,35,46,Visually dull and narratively confusing.
+101124,Escape from Cyber City 2077,2006,Drama,Germany,100,98,Visually stunning and emotionally gripping.
+101125,Quantum Leap (2000),2021,Sci-Fi,Germany,26,19,Better left for late-night cable TV.
+101126,Whispers in the Wind (2001),2021,Sci-Fi,Germany,66,61,A decent effort with some flashes of brilliance.
+101127,Ancient Riddles (2002),2022,Drama,France,69,78,Passable entertainment for fans of the genre.
+101128,Ruby Red Skies (2003),2005,Documentary,Australia,79,92,A well-crafted experience that mostly lands.
+101129,Whispers in the Wind (2004),2023,Drama,Canada,93,97,Visually stunning and emotionally gripping.
+101130,Velocity Zero: The Beginning,2018,Fantasy,South Korea,32,25,Visually dull and narratively confusing.
+101131,The Emerald Gate 2,2019,Drama,France,61,70,A decent effort with some flashes of brilliance.
+101132,Return of Platinum Soul,2001,Action,Japan,58,45,Ambitious but struggles with pacing.
+101133,The Legend of Mountain Peak High,2009,Thriller,Canada,27,32,Better left for late-night cable TV.
+101134,Escape from Mountain Peak High,2022,Documentary,Spain,52,56,A decent effort with some flashes of brilliance.
+101135,Starship Avalon (2010),2004,Fantasy,Japan,90,89,A modern classic that redefines its genre.
+101136,The Diamond Heist (2011),2009,Drama,Japan,54,64,Ambitious but struggles with pacing.
+101137,Desert Rose (2012),2001,Comedy,UK,19,10,Visually dull and narratively confusing.
+101138,Neon Pulse (2013),2015,Romance,Germany,10,12,A disappointing mess that fails to find its footing.
+101139,Neon Pulse (2014),2018,Thriller,UK,81,90,"Enjoyable, though slightly predictable at times."
+101140,Midnight in Kyoto: The Beginning,2010,Romance,India,70,75,Solid performances and a compelling narrative.
+101141,The Digital Frontier 2,2005,Comedy,France,46,44,Better left for late-night cable TV.
+101142,Return of Shadow of the Colossus,2001,Fantasy,India,52,46,Passable entertainment for fans of the genre.
+101143,The Legend of Under the Moonlight,2012,Documentary,France,46,54,Visually dull and narratively confusing.
+101144,Escape from Quantum Leap,2017,Animation,France,50,65,Ambitious but struggles with pacing.
+101145,Arctic Chill (2020),2005,Animation,Canada,36,26,Visually dull and narratively confusing.
+101146,Whispers in the Wind (2021),2015,Sci-Fi,Canada,51,36,Passable entertainment for fans of the genre.
+101147,Desert Rose (2022),2002,Drama,UK,60,63,A decent effort with some flashes of brilliance.
+101148,Mountain Peak High (2023),2016,Romance,South Korea,39,51,A disappointing mess that fails to find its footing.
+101149,Velocity Zero (2024),2011,Thriller,South Korea,15,15,A disappointing mess that fails to find its footing.
+101150,Silicon Valley Dreams: The Beginning,2017,Horror,India,21,34,Visually dull and narratively confusing.
+101151,Island Paradise Lost 2,2004,Animation,Germany,58,66,Passable entertainment for fans of the genre.
+101152,Return of Bronze Age Chronicles,2019,Documentary,France,65,58,Passable entertainment for fans of the genre.
+101153,The Legend of Neon Pulse,2017,Action,Canada,81,73,A well-crafted experience that mostly lands.
+101154,Escape from The Last Samurai Rising,2017,Animation,UK,27,15,Visually dull and narratively confusing.
+101155,The Urban Jungle (2005),2021,Documentary,Spain,57,42,A decent effort with some flashes of brilliance.
+101156,Beyond the Clouds (2006),2001,Animation,USA,63,66,Passable entertainment for fans of the genre.
+101157,Sapphire Seas (2007),2001,Documentary,UK,42,53,Visually dull and narratively confusing.
+101158,Golden Empire (2008),2014,Animation,India,84,83,"Enjoyable, though slightly predictable at times."
+101159,Shadow of the Colossus (2009),2006,Thriller,Spain,58,45,Passable entertainment for fans of the genre.
+101160,Beyond the Clouds: The Beginning,2017,Fantasy,USA,91,100,A masterclass in filmmaking that resonates deeply.
+101161,Forgotten Memories 2,2023,Action,India,72,83,A well-crafted experience that mostly lands.
+101162,Return of Diamond Dust,2000,Comedy,UK,36,42,Better left for late-night cable TV.
+101163,The Legend of Shadow of the Colossus,2005,Documentary,Germany,95,80,A modern classic that redefines its genre.
+101164,Escape from Desert Rose,2024,Action,India,37,25,Better left for late-night cable TV.
+101165,Deep Sea Secret (2015),2003,Action,France,77,89,A well-crafted experience that mostly lands.
+101166,Under the Moonlight (2016),2020,Comedy,Germany,90,96,Visually stunning and emotionally gripping.
+101167,The Urban Jungle (2017),2020,Drama,Australia,45,51,Visually dull and narratively confusing.
+101168,Ruby Red Skies (2018),2004,Drama,Spain,24,24,Visually dull and narratively confusing.
+101169,Mountain Peak High (2019),2002,Thriller,France,14,14,Better left for late-night cable TV.
+101170,Desert Rose: The Beginning,2003,Sci-Fi,USA,71,67,Solid performances and a compelling narrative.
+101171,The Urban Jungle 2,2000,Horror,Canada,97,93,A masterclass in filmmaking that resonates deeply.
+101172,Return of The Pearl Diver,2016,Fantasy,Australia,74,59,A well-crafted experience that mostly lands.
+101173,The Legend of Island Paradise Lost,2012,Thriller,Japan,86,76,"Enjoyable, though slightly predictable at times."
+101174,Escape from Shadow of the Colossus,2004,Fantasy,South Korea,81,85,Solid performances and a compelling narrative.
+101175,Velocity Zero (2000),2007,Horror,Japan,27,31,A disappointing mess that fails to find its footing.
+101176,Midnight in Kyoto (2001),2014,Documentary,Australia,83,72,"Enjoyable, though slightly predictable at times."
+101177,Mountain Peak High (2002),2024,Comedy,France,76,64,A well-crafted experience that mostly lands.
+101178,Under the Moonlight (2003),2020,Comedy,India,90,99,Visually stunning and emotionally gripping.
+101179,Neon Pulse (2004),2015,Romance,Japan,91,77,A modern classic that redefines its genre.
+101180,Arctic Chill: The Beginning,2000,Romance,Spain,51,52,Ambitious but struggles with pacing.
+101181,The Great Gatsby V2 2,2010,Sci-Fi,UK,43,49,A disappointing mess that fails to find its footing.
+101182,Return of Quantum Leap,2018,Action,India,19,5,Better left for late-night cable TV.
+101183,The Legend of Desert Rose,2012,Horror,Japan,41,34,A disappointing mess that fails to find its footing.
+101184,Escape from Forgotten Memories,2005,Comedy,UK,39,38,Visually dull and narratively confusing.
+101185,Last Train to Paris (2010),2009,Drama,UK,30,42,Better left for late-night cable TV.
+101186,Cosmic Drift (2011),2022,Thriller,Japan,16,27,Better left for late-night cable TV.
+101187,Beyond the Clouds (2012),2007,Romance,Japan,64,58,Passable entertainment for fans of the genre.
+101188,Midnight in Kyoto (2013),2005,Action,UK,42,35,Better left for late-night cable TV.
+101189,Starship Avalon (2014),2017,Animation,France,36,30,Better left for late-night cable TV.
+101190,Eternal Sands: The Beginning,2023,Comedy,USA,18,16,A disappointing mess that fails to find its footing.
+101191,Velocity Zero 2,2018,Documentary,Germany,58,56,A decent effort with some flashes of brilliance.
+101192,Return of The Emerald Gate,2014,Animation,Canada,43,30,Visually dull and narratively confusing.
+101193,The Legend of Parallel Worlds,2022,Thriller,South Korea,73,64,"Enjoyable, though slightly predictable at times."
+101194,Escape from Diamond Dust,2020,Fantasy,Japan,92,79,Visually stunning and emotionally gripping.
+101195,The Urban Jungle (2020),2021,Action,South Korea,94,100,A modern classic that redefines its genre.
+101196,Under the Moonlight (2021),2000,Thriller,Australia,45,55,Visually dull and narratively confusing.
+101197,The Urban Jungle (2022),2017,Thriller,UK,27,41,Visually dull and narratively confusing.
+101198,Midnight in Kyoto (2023),2012,Sci-Fi,USA,18,33,A disappointing mess that fails to find its footing.
+101199,The Great Gatsby V2 (2024),2015,Thriller,Japan,62,47,Passable entertainment for fans of the genre.
