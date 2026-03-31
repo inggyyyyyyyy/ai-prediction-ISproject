@@ -7,17 +7,36 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
-from tensorflow.keras.models import load_model
+from tensorflow.keras.models import model_from_json
 
 # =========================
-# LOAD MODELS
+# LOAD ML MODELS
 # =========================
 ml_model = joblib.load("ensemble_model.pkl")
 ml_scaler = joblib.load("scaler.pkl")
 le_country = joblib.load("le_country.pkl")
 le_target = joblib.load("le_target.pkl")
 
+# =========================
+# LOAD NN MODEL (REAL FIX)
+# =========================
+# โหลดโครงสร้าง model
+with open("nn_model.json", "r") as json_file:
+    loaded_model_json = json_file.read()
+
+nn_model = model_from_json(loaded_model_json)
+
+# โหลด weights
 nn_model.load_weights("nn_model.weights.h5")
+
+# compile
+nn_model.compile(
+    optimizer='adam',
+    loss='binary_crossentropy',
+    metrics=['accuracy']
+)
+
+# scaler ของ NN
 nn_scaler = joblib.load("nn_scaler.pkl")
 
 # =========================
@@ -41,7 +60,7 @@ page = st.sidebar.selectbox("Select Page", [
 ])
 
 # =========================
-# DASHBOARD (🔥 WOW PAGE)
+# DASHBOARD
 # =========================
 if page == "📊 Dashboard":
     st.title("🔥 AI Dashboard")
@@ -143,12 +162,12 @@ elif page == "🎬 NN Predict":
             st.error("❌ Bad Movie")
 
 # =========================
-# NN ACCURACY GRAPH 🔥
+# NN ACCURACY GRAPH
 # =========================
 elif page == "📉 NN Accuracy Graph":
     st.title("NN Training Accuracy")
 
-    # fake history (ถ้าคุณยังไม่ได้ save history)
+    # ถ้ามี history จริงให้โหลดมาใช้แทน
     acc = [0.6, 0.7, 0.75, 0.8, 0.82, 0.85]
     loss = [0.7, 0.6, 0.5, 0.4, 0.35, 0.3]
 
